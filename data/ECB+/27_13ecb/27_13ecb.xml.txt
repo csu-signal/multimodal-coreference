@@ -1,0 +1,11 @@
+Microsoft Issues Emergency Patch to Curb Password-Stealing Hackers
+Microsoft today issued an emergency update to plug a critical security hole present in all versions of its Internet Explorer Web browser , a flaw that hackers have been leveraging to steal data from millions of Windows users .
+The patch , which Microsoft dubbed MS08-078 , fixes a security vulnerability that Microsoft says already has been used to attack more than 2 million Windows users .
+As Security Fix and other members of the tech community have chronicled , attackers have been busy compromising thousands of Web sites by seeding them with code that installs password-stealing software on computer systems of Web site visitors who use Internet Explorer .
+Microsoft estimated Monday that one in every 500 Windows users had been exposed to sites that try to exploit the flaw .
+Additionally , it said the number of victims was increasing at a rate of 50 percent daily .
+Vulnerability management company nCircle said Microsoft 's decision to issue the patch outside of its normal Patch Tuesday ( second Tuesday of each month ) cycle is wise , given the current exploitation of the flaw and because instructions for exploiting the flaw are now available online .
+`` Given the ongoing attacks for this bug and because the technical details have been available to the public for over a week , this is clearly a high risk client side vulnerability that everyone should patch now , '' said Andrew Storms , director of security for nCircle .
+This is an urgent update .
+If you use Windows , apply this patch now .
+Windows users can download the fix at Windows Update , or by enabling Automatic Updates .

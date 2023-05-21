@@ -1,0 +1,20 @@
+http : / / www . mnn . com / green - tech / computers / stories / microsoft - to - release - patch - for - internet - explorer
+Microsoft to release patch for Internet Explorer
+'The Fix' will remedy a vulnerability that allows an attacker to gain remote control of a Windows machine . .
+Wed , Sep 19 2012 at 11 : 47 AM
+Microsoft will push out an out - of - cycle Windows patch to temporarily fix the critical Internet Explorer flaw revealed earlier this week .
+"While we have only seen a few attempts to exploit the issue , impacting an extremely limited number of people , we are taking this proactive step to help ensure Internet Explorer customers are protected and able to safely browse online , " Microsoft Trustworthy Computing director Yunsun Wee said in a blog posting on Sept . 18 .
+"The Fix it is an easy - to - use , one - click , full - strength solution any Internet Explorer user can install , " Wee wrote .
+"It will not affect your ability to browse the Web , and it will provide full protection against this issue until an update is available .
+It won ’ t require a reboot of your computer .
+"This Fix it will be available for everyone to download and install within the next few days , " she added .
+Microsoft usually pushes out software updates and security patches on the second Tuesday of every month .
+Out - of - cycle patches are reserved for the most serious flaws .
+It's not clear what exactly Microsoft has in mind , if , as Wee indicates , the "fix it" is not a real update .
+Microsoft initially suggested that all Internet Explorer users install and configure a utility called the Enhanced Mitigation Experience Toolkit ( EMET ) to prevent exploitation of the flaw , but admitted EMET might interfere with other applications .
+Most security experts , and the German government , have recommended a simpler solution : Stop using Internet Explorer entirely until the flaw is fully fixed .
+The Internet Explorer vulnerability allows an attacker to gain remote control of a Windows machine at the same level of privilege as the current user .
+That's not so bad if a given machine's current user has limited privileges , but very serious if the current user has administrator rights and can install , modify or delete software .
+The flaw affects all currently distributed and supported versions of Internet Explorer and Windows : Internet Explorer versions 6 , 7 , 8 , and 9 and Windows XP , Vista and 7 , as well as Windows Server 2003 , and 2008 .
+Windows 8 , due to be released to the general public Oct . 26 , and its accompanying Web browser , Internet Explorer 10 , are not affected .
+Nor is Windows Server 2012 .

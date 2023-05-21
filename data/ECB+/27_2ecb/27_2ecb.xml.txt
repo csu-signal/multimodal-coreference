@@ -1,0 +1,22 @@
+Microsoft Patches IE , But Security Issues Remain
+As usual , the bad guys are ahead in the tug-of-war over security .
+Microsoft today released a patch for the latest Internet Explorer ( IE ) browser vulnerability that has been in the news since last week .
+However , malware authors have already begun pushing out customized variants of the flaw that the Microsoft patch may not address .
+The vulnerability , rooted in IE 's XML parser , lets attackers execute code on their victims ' PCs .
+By Saturday , at least 6,000 Web sites had been infected and the number is growing though ascertaining the exact number is difficult .
+However , security experts say things will get much worse , even if users follow Microsoft 's ( NASDAQ : MSFT ) advice to install the patch immediately .
+Currently attacks have only targeted IE 7 , Christopher Budd , security response communications lead at Microsoft , said in a statement .
+They have not been successful against systems where the patch has been applied , according to Budd .
+Microsoft is hosting two Webcasts to address customer questions about the security bulletin .
+The first was set for 1 p.m. PDT today and 11 a.m. PDT tomorrow in the U.S. and Canada .
+The Webcast will be available on demand after that .
+According to researcher Rahul Mohandas on the McAfee ( NYSE : MFE ) Avert Labs blog , malware authors have already begun issuing customized version of the IE exploit with various degrees of stealth .
+One of the most prominent techniques is where the attacker sends victims a Microsoft Word document by e-mail that contains an embedded ActiveX control triggered when the document is opened .
+This exploit was listed as one of the SysAdmin , Audit , Network , Security ( SANS ) Institute 's top 20 security risks in 2007 .
+Victims of the latest exploit are hit by drive-by injection attacks , where they go to a compromised Web site that automatically downloads malicious code onto their Web site .
+Malware authors have come up with a new twist on this , Dave Marcus , security research and communications director at McAfee Labs , told InternetNews.com .
+They plant an IFrame onto a legitimate site and the IFrame redirects unsuspecting visitors to the site hosting the malicious code .
+An IFrame is an HTML element that lets users embed an HTML document inside another HTML document .
+The CBS ( NYSE : CBS ) TV network site was hit by an IFrame attack on November 11 that saw visitors redirected to a server in Russia , according to security company Finjan 's MCRC blog on November 27 .
+`` We 've seen an awful lot of sites that have been compromised with the IFrame on them , '' Marcus said .
+`` It 's a very Web 2.0 way of spreading malware . ''

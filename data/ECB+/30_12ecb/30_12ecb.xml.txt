@@ -1,0 +1,34 @@
+Severed Cables in Mediterranean Disrupt Communication
+Internet and telephone communications between the Middle East and Europe were disrupted after three submarine cables between Italy and Egypt in the Mediterranean Sea were damaged .
+The failures cut the flow of `` data of various kinds '' between Europe and the Middle East , and there 's no timeframe for when communications will be restored , said Sanjeev Gaur , director of assurance at Reliance Globalcom Ltd. in India .
+France Telecom SA , which plans to send a maintenance boat to fix the problem , said the situation should be back to normal by Dec. 31 .
+Three cable systems carrying more than 75 percent of traffic between the Middle East , Europe and America have been damaged , according to the U.K. 's Interoute Plc , which operates a fiber- optic data network connecting 92 cities .
+The cables run from Alexandria in northern Egypt to Sicily in southern Italy .
+In January , an anchor severed the cables outside Alexandria after bad weather conditions forced ships to moor off the coast .
+`` The information we have is a bit sketchy , but chances are that it will have been an anchor again , `` Jonathan Wright , Interoute 's director of wholesale products , said in a telephone interview .
+`` Close to 90 percent of all the data traffic between Europe and the Middle East is carried on these three cable systems . ''
+Interoute said the January incident brought down 70 percent of the Internet network in India and the Middle East .
+Customer services and some mobile-phone customers at Vodafone Group Plc 's Egyptian unit are affected by the cable failure , said Simon Gordon , a spokesman for the U.K. company .
+Egypt is the only country where the company is aware of any problems linked to the failure , he said .
+Most mobile-phone calls are routed through fixed-line cables at some point .
+Verizon Communications Inc. , the second-largest U.S. phone company , said it has rerouted traffic for its Verizon Business customers making calls to the Middle East by siphoning it to Europe and the U.S. and then down through Asia , spokeswoman Linda Laughlin said in an interview .
+The rerouting slowed some traffic to about half its normal speed , Laughlin said .
+Point-to-point customers still do n't have connections , and Verizon does n't have information on how many subscribers are affected .
+The company expects repairs to be completed by early next week , she said .
+Portugal Telecom SGPS SA , Portugal 's biggest phone company , has redirected traffic through other cables in the region and therefore the `` impact is very small , '' said a company official .
+Sonaecom SGPS SA , Portugal 's second-biggest fixed-line phone company , also said that it 's diverting traffic to other routes .
+France Telecom 's Orange mobile-phone unit said the cable failure `` greatly disturbed '' the traffic between Europe and parts of Asia .
+At one point as much as 55 percent of voice traffic in Saudi Arabia , 52 percent in Egypt and 82 percent in India was out of service , according to Orange .
+Internet traffic `` from Mumbai to London has now been rerouted via Hong Kong which may lead to congestion and increased latency on this route , ''
+Reliance said in an e-mailed `` traffic disruption update , '' adding that it is working with the affected customers to restore all services .
+The company said it will publish another update on its Web site tomorrow .
+`` You can reroute the data through other cables , but that increases traffic and can potentially create bottlenecks , '' Interoute 's Wright said .
+`` So Internet connections may slow down and some phone calls could get disrupted . ''
+Some of Interoute 's clients in the U.K. and Southern France are probably affected by the failure , Wright said .
+`` It 's difficult to forecast how long it will take to fix the problem as it depends on the weather and sea conditions in the Mediterranean , '' Wright said .
+A fault is affecting the SMW4 cable near the Alexandria cable station , the FLAG FEA cable is down and the SMW3 cable system is also affected , according to information received from Telstra .
+Flag Telecom Group Ltd. , a Reliance Globalcom unit , operates FLAG FEA and the other cables are owned by groups of phone companies across the regions .
+Reliance Globalcom does n't know exactly what happened and engineers are working on the problem , said Anurag Joshi , head of the company 's global network operations center .
+The SMW4 cable , also known as SEA-ME-WE 4or South East Asia-Middle East-Western Europe 4 cable network , connects 12 countries : Pakistan , Indonesia , Singapore , Malaysia , Bangladesh , India , Sri Lanka , United Arab Emirates , Saudi Arabia , Egypt , Italy and France .
+France Telecom said one of its maintenance boats in the Mediterranean area is headed to the region for a relief mission with 20 kilometers of spare cable on board .
+Priority will be to recover the SEA-ME-WE 4 cable , then the SEA-ME-WE 3 cable , France Telecom said , adding that Sea Me We4 could be operating by Dec. 25 and the situation should be back to normal by Dec. 31 .

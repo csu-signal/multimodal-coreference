@@ -1,0 +1,12 @@
+http : / / news . softpedia . com / news / Microsoft - Launches - Emergency - Patch - for - Internet - Explorer - 383865 . shtml
+September 18th , 2013 , 05 : 31 GMT
+Microsoft Launches Emergency Patch for Internet Explorer
+Microsoft has just released a new security update for Internet Explorer in order to patch a flaw affecting all versions of the company ’ s in - house browser , including IE11 on Windows 8 . 1 RTM .
+While Microsoft claims that it has received reports of attacks aimed at Internet Explorer 8 and 9 , it appears that the security flaw affects all the other versions of the browser .
+According to the company , the issue would allow remote code execution , which means that an attacker could get access to an unpatched system by directing users to a compromised website .
+“ This issue could allow remote code execution if an affected system browses to a website containing malicious content directed towards the specific browser type .
+This would typically occur when an attacker compromises the security of trusted websites regularly frequented , or convinces someone to click on a link in an email or instant message , ” the company explained .
+The Fix It tool released by Microsoft can be used for IE6 , 7 , 8 , 9 , 10 , and 11 on Windows XP , Vista , 7 , 8 , and 8 . 1 , both Preview and RTM . 32 - and 64 - bit versions of the operating systems are all included in the security advisory .
+In addition , the tech giant recommends users to set Internet and local intranet security zone settings to “ High ” in order to block ActiveX Controls and Active Scripting in these zones .
+“ This will help prevent exploitation but may affect usability ; therefore , trusted sites should be added to the Internet Explorer Trusted Sites zone to minimize disruption , ” Microsoft said .
+At the same time , the Softies suggest that it would be a good idea to configure Internet Explorer to prompt before running Active Scripting or to disable Active Scripting completely in the Internet and local intranet security zones , just to be sure that everyone is on the safe side and no successful attacks are possible .

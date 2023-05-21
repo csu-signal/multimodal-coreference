@@ -1,0 +1,9 @@
+Microsoft rushes to release patch to fix web browser flaw
+Microsoft on Wednesday issued an urgent patch to fix an Internet Explorer ( IE ) web browser flaw that may have been used by hackers to attack millions of computer users .
+The security update for IE , dubbed MS08-078 , resolves a publicly disclosed vulnerability that `` could allow remote code execution if a user views a specially crafted Web page using Internet Explorer , '' the software giant said in a statement .
+The flaw could allow hackers to take control of computers and steal passwords and credit card information .
+Writing in a company blog , Mike Reavey , director of the Microsoft Security Response Center , urged users to test and deploy the security update `` as quickly as possible . ''
+Microsoft said the update is for IE on all currently supported versions of Windows .
+Users can now download it for their home computers or laptops from Microsoft Update website .
+Microsoft security experts estimated earlier that roughly 0.2 percent of IE users worldwide may have been exposed to websites containing exploits of the latest vulnerability , which means millions of users are in danger of having their computers infected .
+Latest statistics from research firm Net Applications showed that IE still dominates the browser market with a share of nearly 70 percent .

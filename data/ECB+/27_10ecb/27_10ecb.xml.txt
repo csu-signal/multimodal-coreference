@@ -1,0 +1,21 @@
+Microsoft Releases Critical Patch For IE Zero Day Flaw
+Microsoft ( NSDQ : MSFT ) issued an out-of-band emergency patch Wednesday for a zero-day Internet Explorer vulnerability that has opened the door for hackers to install malware on susceptible computers without any user intervention .
+The flaw , which is given the highest severity rating of critical , affects all versions of Microsoft 's IE Web browser .
+Specifically , Microsoft 's IE update affects versions of Windows 2000 for IE 5.01 : XP , XP Professional , Server 2003 for IE 6 ; and XP , Server 2003 , Vista , Server 2008 for IE 7 .
+The vulnerability was reported after the release of Windows IE 8 Beta 2 , but Microsoft still recommends in its advisory that users apply the patch .
+The IE security problem is the result of a fundamental flaw in the browser 's data binding function , which ultimately leaves a hole in the memory space that can be accessed by remote hackers .
+Internet Explorer can then quit unexpectedly while in an exploitable state .
+Unlike other exploits , users have only to visit a malicious site infused with Trojans or other malware in order to become infected .
+Hackers can also entice victims to visit a specially crafted site , usually via some kind of phishing or social engineering scheme , or place infected banner ads on legitimate Web sites .
+Once users open an infected Web page , malicious downloaders are then installed on their computers , which are designed to record keystrokes and steal passwords , credit card numbers , or other financial information .
+The users ' computer could also become part of a botnet , an infected network of compromised computers , operated by a central command and control center .
+Security researchers first saw evidence of attacks exploiting the IE vulnerability last week , shortly following Microsoft 's `` Patch Tuesday '' monthly security bulletin release Dec. 9 .
+Since then , researchers have seen active exploitation rapidly spread in the wild .
+While exact numbers of victims are difficult to precisely calculate , the number of infected computers could potentially affect hundreds of thousands or millions of computers , experts say .
+`` There 're people constantly looking at the code , trying to find issues like ( the IE vulnerability ) , '' said Dave Marcus , security research and communications manager for McAfee .
+`` It gets posted to the Internet very quickly . ''
+McAfee Avert Labs researchers reported variants of the IE exploit that attempt to infect users via an ActiveX control that stores the malicious exploit code , stealthily running in the background of a Microsoft Word document .
+Malware is then installed on the vulnerable computer once users open up a Word document -- all without their knowledge or permission .
+`` We 've seen some pretty clever ways of people trying to take advantage of this , '' said Marcus .
+`` It just speaks to the fact that they look for clever , very unique ways to get malware onto your system . ''
+Security experts strongly recommend that users apply Microsoft 's latest IE patch as soon as possible , which can be downloaded from the Microsoft Web site .

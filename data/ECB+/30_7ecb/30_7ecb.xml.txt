@@ -1,0 +1,21 @@
+Severed cable disrupts net access
+Internet and phone communications between Europe , the Middle East , and Asia have been seriously disrupted after submarine cables were severed .
+It is thought the FLAG FEA , SMW4 , and SMW3 lines , near the Alexandria cable station in Egypt , have all been cut .
+A fault was also reported on the GO submarine cable 130km off Sicily .
+Experts warned that it may be days before the fault is fixed and said the knock on effect could have serious repercussions on regional economies .
+Jonathan Wright - director of wholesale products at Interoute which manages part of the optical fibre network - told the BBC that the effects of the break would be felt for many days .
+`` This will grind economies to a halt for a short space of time , '' he said
+`` If you look at , say , local financial markets who trade with European and US markets , the speed at which they get live data will be compromised . ''
+`` If you think how quickly trades can be placed , if they are suffering from bad latency times , then by the time a trade is placed , the market may well have moved on . ''
+The cause of the break is as yet unknown , although some seismic activity was reported near Malta shortly before the cut was detected .
+In a statement released in relation to one of the breaks , France Telecom said : `` The causes of the cut , which is located in the Mediterranean between Sicily and Tunisia , on sections linking Sicily to Egypt , remain unclear . ''
+The French firm said it was sending a ship out to fix the line between Italy and Egypt , although it could take until 31 December to fully repair the line .
+The main damage is to the four submarine cables running across the Mediterranean and through the Suez Canal .
+It is thought that 65 % of traffic to India was down , while services to Singapore , Malaysia , Saudi Arabia , Egypt , Taiwan and Pakistan have also been severely affected .
+Earlier this year , the same line was damaged in the same area - off the Egyptian coast - although only two lines were snapped then .
+`` We 've lost three out of four lines .
+If the fourth cable breaks , we 're looking at a total blackout in the Middle East , '' said Mr Wright .
+`` These three circuits account for 90 % of the traffic and we 're going to see more international phone calls dropping and a huge degradation in the quality of local internet , '' he added .
+`` Normally you would expect to see one major break per cable per year .
+With four you should have an insurance policy .
+For this to happen twice in one year , on the same cable , is a serious cause for concern . ''

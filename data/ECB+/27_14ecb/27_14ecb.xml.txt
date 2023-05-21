@@ -1,0 +1,20 @@
+With Web attacks increasing , Microsoft fixes IE bug
+Security experts say that Web surfers should immediately install a new bug-fix for Microsoft 's Internet Explorer browser , released Wednesday morning .
+The flaw , which was accidentally made public by Chinese security researchers just over a week ago , has been used in a growing number of Web-based attacks over the past few days .
+Criminals have posted attack code that exploits this flaw on thousands of Web sites so far , according to Rick Howard , intelligence director with Verisign 's iDefense group .
+Verisign has now seen six variants of the attack software , all of which attempt to steal Chinese online gaming credentials .
+Often the attack is launched through a hidden iFrame component that is surreptitiously put on a Web site .
+Verisign has even spotted one such iFrame attack on a legitimate financial institution 's Web site , Howard said .
+`` The volume of iFrames deploying this thing is really high . ''
+The flaw lies in the way Internet Explorer 's data-binding function works , Microsoft said .
+When the browser is attacked it will crash , corrupting the computer 's memory and allowing the criminal to run unauthorized software .
+View more related contentView all related articles
+Because Internet Explorer is used by about 70 percent of Web surfers , this attack code will probably show up in widely used malicious software toolkits `` very shortly , '' Howard said .
+Other security companies agreed with Verisign 's assessment .
+`` Microsoft 's latest IE out-of-band patch release needs to be installed right away , '' said Shavlik Technologies in a statement .
+`` The number of infected Web sites is growing at an alarming rate -- even people visiting legitimate Web sites are getting hacked with this exploit . ''
+The flaw is so serious , in fact , that Microsoft took the unusual step of issuing its security fix weeks ahead of schedule .
+Typically Microsoft releases security patches just once a month in order to simplify the lives of system administrators .
+Its next set of updates is due Jan. 13 .
+Criminals could also launch their attacks via e-mail , by sending victims maliciously encoded HTML documents , although this type of attack has not been reported .
+Microsoft 's patch is for users of IE version 5 and up .

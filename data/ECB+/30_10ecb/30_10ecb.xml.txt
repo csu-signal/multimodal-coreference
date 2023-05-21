@@ -1,0 +1,23 @@
+India suffers massive internet disruption after undersea cables break
+Millions of people across the Middle East and Asia have lost access to the internet after two undersea cables in the Mediterranean suffered severe damage .
+Huge numbers in Egypt and India were left struggling to get online as a result of the outage , when the major internet pipeline between Egypt and Italy was cut .
+Internet Service Providers ( ISPs ) throughout the region , including those in United Arab Emirates , Kuwait and Saudi Arabia , also reported problems .
+International telephone calls , which have also been affected , are being rerouted to work around the problem .
+Industry experts told The Times that two sub-sea cables went down just off Alexandra , causing the mass disruption .
+`` It is incredibly rare to experience a dual-break where both cables are down simultaneously , '' said a spokesperson for Interoute , the internet networks company .
+The Egyptian ministry said it will take `` several days '' for cables to be repaired and is trying to reroute Egypt 's internet connections .
+Indian ISPs said their problems were due to the cable damage off Egypt .
+Speaking to reporters , Rajesh Chharia , president of the Internet Service Providers ' Association of India , said : `` Information technology companies , software companies and call centres that provide online services to the UK or the US east coast are the worst affected . ''
+Rafaat Hindy , from the Egyptian ministry , said : `` Despite this being an international cable affecting many Gulf and Arab countries , we are closest to it and so we have a lot of responsibility .
+`` We are working as fast as we can . ''
+It is thought that up to 70 per cent of web services in Egypt , and 60 per cent in India , were disrupted yesterday .
+There were reports that phone and internet difficults had spread to Yemen , Sudan , Bangladesh and Sri Lanka .
+The shut down will take several days to fix , and could have a major impact on the region and across the world .
+It is likely to hit businesses who will struggle to communicate in the affected countires .
+Call-centres who work for British companies are likely to be offline or hard to contact in the coming days .
+Others warned that bank and stock market trading could be affected .
+The digital blackout highlighted the vulnerability of global communications .
+Hundreds of millions of people access the web , but the vast majority of international traffic runs through a a small amount of cables submerged below the sea .
+Industry insiders warned that a domino effect was occuring today , causing the disruption to spread across the globe .
+As companies ' private internet services went down , workers were forced to use the public internet and mobile phones to communicate .
+This has resulted in a heavy strain on phone and internet networks , meaning calls could go down and cause the internet to become slower or blackout completely .

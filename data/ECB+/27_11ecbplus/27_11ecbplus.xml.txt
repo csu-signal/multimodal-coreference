@@ -1,0 +1,15 @@
+http : / / articles . timesofindia . indiatimes . com / 2013 - 09 - 18 / internet / 42182019 _ 1 _ microsoft - issues - security - flaw - internet - explorer
+Microsoft releases security patch for Internet Explorer
+Reuters Sep 18 , 2013 , 02 . 16PM IST
+Microsoft released an emergency software fix for Internet Explorer on Tuesday after hackers exploited a security flaw in the popular Web browser to attack an unknown number of users .
+The software maker said on its website it released the software , known as a "Fix It , " as an emergency measure to protect customers after learning about "extremely limited , targeted attacks" that made use of the newly discovered bug .
+Microsoft said the attacks took advantage of an undiscovered flaw , or "zero day" vulnerability in industry parlance .
+State - sponsored hacking groups are often willing to pay hundreds of thousands of dollars for zero - day vulnerabilities in widely used software such as Internet Explorer , according to security experts who track that market .
+They typically use them on small numbers of carefully selected , high - value targets , to keep such flaws secret .
+Once Microsoft issues a warning about a zero - day bug , other groups of hackers involved in massive cyber - crime operations , such as identity theft , rush to reverse - engineer the Fix Its so they can build computer viruses that also exploit the same vulnerabilities .
+Security experts said Internet Explorer users should either immediately install the Fix It or stop using the browser until Microsoft can put out an update , which will be automatically installed through its Windows Update program .
+"With the Fix It out , I'm sure any attacker who is a bit sophisticated can figure out what the flaw is and implement a similar exploit in their own attack toolkit , " said Wolfgang Kandek , chief technology officer with the cybersecurity firm Qualys Inc .
+"Fix Its" are pieces of software for remediating security flaws that must be downloaded and installed on PCs .
+They are designed to protect customers while Microsoft prepares official updates , automatically delivered via the Internet to be installed on computers .
+Kandek said he expects Microsoft to push out an update to address the issue within two to three weeks .
+The Fix It can be installed by clicking on a link this page on Microsoft's support site
