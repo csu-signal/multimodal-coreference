@@ -1,0 +1,26 @@
+The buy should also expand AMD 's manufacturing capability , as well as integrate microprocessors and graphics engines in a single chip .
+The acquisition is set to be wrapped up by year 's end .
+Advanced Micro Devices ( NYSE : AMD ) announced the largest acquisition in its history Monday , paying about $ 5.4 billion to acquire graphics chip specialist ATI Technologies .
+The acquisition will let AMD expand its position in the commercial desktop and mobile computing markets , two areas where the company has not had much success .
+In addition to accelerating the company 's x86 processor market share battle with Intel ( NSDQ : INTC ) , the acquisition will expand AMD 's access to manufacturing capacity and will lead to products that will integrate both microprocessors and graphics engines in a single chip in future releases .
+The startup manages large-scale Web infrastructures to prevent downtime related to configuration changes March Madness 2008 Was Carried In Full On The Internet , On Demand Thanks To The Technology Innovations of CBS Sports and CBS Interactive GM 's tech leader talks about consolidating , re-engineering , upgrading the company 's application infrastructure .
+`` Together we intend to create a processing powerhouse , '' said Hector Ruiz , chairman and chief executive of AMD , during a teleconference to announce the deal .
+`` We are confident the companies will integrate well together .
+We believe that as technology advances , integration is not only inevitable , but also advantageous . ''
+Beginning next year , the companies will market `` customer-centric platforms '' using AMD and ATI technologies that will include all existing product offerings .
+Beginning in 2008 , AMD plans to introduce platforms that integrate general purpose processors and graphics engines to meet specific media , data , and graphic requirements , says Dave Orton , president and chief executive of ATI .
+Bob Rivet , CFO of AMD , says the acquisition is expected to be completed by year 's end .
+The purchase is a combination of $ 4.2 billion in cash and 57 million shares of AMD stock .
+AMD 's current area of greatest strength is providing processors that address the server and consumer desktop market , Rivet says .
+Bringing ATI 's graphics technology in-house will allow AMD to better address the commercial desktop and laptop markets , he says , two areas where AMD currently has a smaller presence .
+While overall sales of x86 processors currently totals about $ 30 billion annually , AMD is primarily addressing only a segment that totals about $ 13 billion , Rivet says .
+By expanding more into commercial desktop and laptop markets , AMD will be able to grow its overall x86 market share .
+Rivet says that each percentage of market share gained equates to about $ 300 million in revenue .
+Ruiz says the acquisition `` opens up a broad array of options for expanding our capacity infrastructure '' by providing AMD with an expanded relationship with some of the largest semiconductor foundries in the world .
+Currently AMD utilizes internal manufacturing capacity , as well as capacity from Chartered Semiconductor Manufacturing .
+ATI , however , has manufacturing relationships with two of the other largest foundries in the world , Taiwan Semiconductor Manufacturing and United Microelectronics .
+The acquisition of ATI by AMD will now provide computer makers and customers with another choice for integrated microprocessor and graphics processor platforms , says Bruce Shaw , director of worldwide commercial marketing for AMD .
+Currently only Intel offers an integrated platform .
+Although AMD will be providing integrated platforms , it will continue to support the use of third-party graphics products , such as those from Nvidia , in combination with its processors , Shaw says .
+AMD has no plans to reduce the ATI product line or back away from markets it addresses , such as cell phones , where AMD has little or no presence , he said .
+ATI is expected to continue to operate out of its headquarters in Markham , Ontario , and layoffs are expected to be minimal .

@@ -1,0 +1,12 @@
+http : / / arstechnica . com / business / 2012 / 02 / amd - acquires - seamicro - looks - to - quicken - growth - in - the - server - market /
+AMD acquires SeaMicro to grab share of microserver market
+AMD's $334 million deal with SeaMicro is a strong move to improve within the …
+Mar 1 2012 , 2 : 35am CET
+AMD has made a $334 million bet on the energy - efficient "microserver" market .
+On Wednesday afternoon , the company announced that they have reached a $334 million agreement , to purchase SeaMicro , a successful microserver manufacturer .
+Launched in 2007 , SeaMicro quickly gained attention for their ability to combine cheap , low - end processors that could handle Web - centric server workloads .
+The company worked closely , if not exclusively , with Intel processors in recent years .
+SeaMicro's current SM server line uses Intel's Atom and "Sandy Bridge" processors .
+“ By acquiring SeaMicro , we are accelerating AMD ’ s transformation into an agile , disruptive innovator capable of staking a data center leadership position , ” said Rory Read , AMD's president and CEO , in today's news release .
+For now , AMD will continue to sell SeaMicro servers based on Intel Atom processors according to PC World .
+However , AMD expects to release the first SeaMicro servers based on AMD Opteron processors within the year .

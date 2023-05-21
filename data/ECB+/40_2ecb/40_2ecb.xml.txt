@@ -1,0 +1,13 @@
+Apple 's big announcement at Macworld yesterday was not a new iMac , Mini or netbook , all of which had been rumoured , but a battery .
+The firm announced a widely expected refresh of its 17in MacBook Pro , with a battery that the firm said will offer eight hours of operation , but which is not removable from the case .
+The battery , based on conventional lithium polymer technology commonly found in laptops and mobile phones , has been integrated into the case to make the device thinner while increasing battery life , according to Apple senior vice president of marketing Phil Schiller .
+Apple has also introduced a separate chip that monitors the power used by each cell and adjusts the charging current accordingly , which the firm says extends the life of the battery .
+The Macworld crowd did not let out its characteristic whoops of excitement when Schiller announced the battery , even when he said that its capacity for 1,000 full recharges - three times the average achieved by other notebooks - would give the average battery a five-year life .
+However , one Mac customer from the show floor was sceptical of the claims .
+`` Apple says five years , but for some it might only be two or three , '' he said .
+`` Look at the way guys like us travel . ''
+Apple will offer a p135 take-back and replacement service for the battery .
+The keynote was decidedly low-key this year , being Apple 's last following a decision to pull out from the IDG-run show .
+Other than the MacBook Pro , the company concentrated on enhancements to its iWork package , including a beta version of iwork.com .
+The service lets users share iWork files , including those in Microsoft Office format , and to comment on each other 's work .
+Glaringly absent at Macworld were refreshes of the now ageing Mac Mini and the iMac desktop lines .

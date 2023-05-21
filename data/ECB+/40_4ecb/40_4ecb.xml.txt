@@ -1,0 +1,30 @@
+With a 17-inch MacBook Pro update unveiled at today 's Macworld 2009 keynote , Apple has finally brought an entire line of Mac portables into view .
+The largest member of the MacBook family now comes with a faster front-side bus and processor , Nvidia graphics , DisplayPort interconnect with HDCP content protection , LED-backlit glossy display , and all of it wrapped up inside Apple 's unibody aluminum enclosure with glass trackpad .
+For the first time ever , Apple is also offering a 256GB SDD upgrade , while creative pros get to order anti-glare display version of the computer .
+But everybody was expecting this .
+What was never dreamed of is eight hours of battery life that powers this beast - up from five hours before .
+The added juice comes from a 40 % larger battery and a chip inside that `` talks '' to each cell and adjusts the current accordingly .
+This results in three times the number of charges and lifespan of the industry standard .
+The rumor mill was way off this year when it predicted a $ 600 Mac netbook or iPhone nano as Apple 's `` one more thing '' for Macworld 2009 .
+Instead , Apple 's vice president of worldwide marketing Phil Schiller , appointed by Steve Jobs to deliver the keynote presentation in his absence , saved the new 17-inch MacBook Pro as the company 's last surprise .
+Apple calls the 17-inch MacBook Pro the `` world 's lightest and thinnest 17-inch notebook , '' and it is n't exaggerating .
+The computer is just 0.98-inches thin and weighs 6.6 pounds. The 17-inch MacBook Pro represents a marriage of all the technologies used to build other unibody Macbooks and a large 17-inch display for applications that require lots of screen real estate , like video editing and graphics design on-the-go .
+The machine features LED-backlit glossy display that lights up instantly when the lid is open , unlike warm up time required for the LCD cells .
+It also features built-in iSight camera and 1920 x 1200 resolution - that 's 78 percent more pixels than the 15-inch MacBook Pro and enough to display full 1080p HD content with room to spare .
+In addition , it has a 700:1 contrast ratio and 60 % greater color gamut .
+As was expected , the machine now relies exclusively on Mini DisplayPort interconnect with HDCP copy protection technology , and it comes with glass trackpad and illuminated keyboard , all wrapped in a sturdy unibody alluminum enclosure .
+The new 17-inch MacBook Pro includes an ultra-thin , widescreen glossy 1920 x 1200 display with 78 % more pixels than the 15-inch MacBook Pro and a 60 % greater color gamut that delivers desktop-quality color in a notebook .
+The LED-backlit display has brilliant instant-on performance , uses up to 30 % less energy and eliminates the mercury found in industry standard fluorescent tube backlights .
+A faster 1066 MHz front-side bus and newer generation of Intel Core 2 Duo processor with 6MB shared L2 cache , clocked at 2.66 GHz , bring an evolutionary speed increase over the previous model .
+The notebook ships with 4GB of 1066 MHz DDR3 SDRAM , expandable to 8GB ; onboard graphics is the same ( Nvidia GeForce 9400M and 9600M GT combo ) as used in the 15-inch unibody MacBook Pro models .
+The latter discreet chip comes with 512MB GDDR3 video memory and can be turned on to boost graphics performance when needed , albeit at the expense of battery .
+But when it comes to battery , the lithium polymer one inside the 17-inch MacBook Pro squeezes up to 8 hours of runtime .
+Apple said it created 40 % larger environment-friendly battery without taxing computer 's sleek form factor .
+The battery features adaptive charging technology and comes with a chip inside that talks to each cell to adjust the current accordingly , resulting in a three times the charges and lifespan of the industry standard .
+`` We 've developed new battery technology that is better for the user and better for the environment , '' said Apple CEO Steve Jobs .
+`` Apple 's advanced chemistry and innovative technology deliver up to eight hours of use on a full charge cycle and up to 1,000 recharges . ''
+The company claims that a `` properly maintained '' battery in this notebook will retain 80 % or more of its original capacity during a lifespan of up to 1,000 recharge cycles .
+Connectivity options include wireless 802.11n networking courtesy of the built-in AirPort Extreme card , a Bluetooth 2.1 + EDR module and Gigabit Ethernet .
+The machine also has one FireWire 800 port for connecting video cameras and other professional audio and video equipment , three USB 2.0 ports , audio line in and out ports , each supporting both digital and analog , and ExpressCard/34 expansion card slot .
+Storage features include 320GB SATA HDD running at 5400 rpm , with Apple 's Sudden Motion Sensor that prevents head to scratch platter surface if the machine is suddenly dropped , and a slot-load 8X SuperDrive with double-layer support .
+Apple will start shipping the new 17-inch MacBook Pro at the end of the month for $ 2,799 .

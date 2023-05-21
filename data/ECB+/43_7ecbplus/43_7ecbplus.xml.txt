@@ -1,0 +1,18 @@
+http : / / www . pcmag . com / article2 / 0 , 2817 , 2401008 , 00 . asp
+AMD to Acquire Microserver Startup SeaMicro for $334 Million
+February 29 , 2012 04 : 23pm EST
+Advanced Micro Devices on Wednesday announced a deal to acquire startup SeaMicro , a maker of microservers and data center fabric technology , for $334 million .
+SeaMicro chief executive Andrew Feldman will become general manager of a newly formed AMD business unit called Data Center Server Solutions .
+"SeaMicro's leading - edge fabric technology together with AMD Opteron processors point the way to a compelling roadmap for the cloud data center market , " said Lisa Su , senior vice president and general manager of AMD's Global Business Units , in a discussion with reporters at the chip maker's Sunnyvale , Calif . headquarters ahead of the announcement .
+The company will continue to honor SeaMicro's existing relationships with its own partners , Su said , and will sell SeaMicro - branded servers , which currently use server chips made by AMD archrival Intel .
+Feldman , who also spoke with media Wednesday , said SeaMicro's technology was "processor - agnostic , " so incorporating AMD's Opteron processors and even non - x86 instruction sets and architectures in future products would be easy to do .
+AMD representatives said they believed SeaMicro's unique supercompute fabric was a major innovation in data center technology , characterizing the platform as a "new server building block" which would increasingly make its way into the growing cloud infrastructure space .
+"When you're talking about the ability to tie together large amounts of processor cores , hundreds and even thousands , within a server system , there aren't a lot of choices out there [ in terms of competitors ] , particularly if you want to bring Ethernet over it and disk traffic over it , there's just us , " said Feldman , describing his company's technology .
+"Nobody else can move both Ethernet and disk traffic , because they have very different requirements , " he added .
+Feldman said SeaMicro's suitors were numerous in the days leading up to the AMD acquisition and included more than just semiconductor companies .
+In recent months , Intel and other companies had spoken highly of the innovative startup .
+"We were fortunate that when we began speaking with AMD , they had far and away the most sophisticated view on fabrics , " he said .
+"They had already done extensive work on what a next - generation fabric could look like .
+They were kindred spirits and when you find that , you can move very quickly .
+And they really moved with dazzling speed . "
+AMD president and chief executive Rory Read also addressed the deal in a statement , saying that the SeaMicro acquisition would accelerate "AMD's transformation into an agile , disruptive innovator capable of staking a data center leadership position . "

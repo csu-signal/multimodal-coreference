@@ -1,0 +1,25 @@
+Apple CEO Steve Jobs unveiled the company 's new high-end notebook line during the special event being held at Apple 's headquarters in Cupertino , Calif .
+The new MacBook Pro will feature two graphic chipsets , the Nvidia GeForce 9400M embedded on the motherboard and the Nvidia GeForce 9600M as a discrete part .
+The graphics deliver 32 parallel graphics cores and 125 gigaflops of graphics performance. Jobs said that using the 9400M you get five hours of battery life and four hours with the 9600M .
+Apple tests indicate the new graphics are five times faster than the integrated graphics of the current designs .
+The MacBook Pro will also come with a newly designed trackpad .
+The multitouch glass trackpad has a 39 percent larger tracking area than before , according to Jobs .
+The entire trackpad will act as button , rather than having a separate button like the previous notebooks .
+Apple has also added to its arsenal of multitouch gestures , adding four-finger gestures with the latest release .
+All of the connectors are on the left side of the MacBook Pro and features a unibody enclosure .
+Apple designer Jonathan Ive explained that Apple learned a lot when making the MacBook Air and used that knowledge to design the new MacBook Pro .
+Of course , the MacBook Pro will have all the features you 've come to expect from an Apple notebook like like backlit keyboards , magnetic latch , motion sensor , speakers , iSight and microphone .
+Apple is also adding a mini display port on the new models .
+A slot-loading SuperDrive will be on the right-hand side of the MacBook Pro .
+At less than an inch thick the new MacBook Pro will come in two models .
+For $ 1999 you get a 15.4-inch 2.4GHz Intel Core 2 Duo with 3MB L2 cache , an LED-backlit display and 2GB 1066 MHz DDR 3 memory , both Nvidia cards , a 250GB hard drive and the slot-loading SuperDrive .
+The other model costs $ 2499 and comes with 2.53GHz processor , 6MB L2 , 4GB of memory , 512MB on the Nvidia 9600M GT , 320GB hard drive .
+The previous generation 15-inch MacBook Pro also came in two models : a 2.4GHz and a 2.5GHz Intel Core 2 Duo .
+Those systems came with a 200GB and 250GB hard drive respectively .
+Although not discussed in detail today , the 17-inch MacBook Pro was also updated-not a complete makeover as with the 15-inch MacBook Pro , but more of a minor update .
+The system continues to use the same chassis design as before , and does n't have the glass-touch trackpad .
+One key change is that the old native screen resolution of 1680 x 1050 has been discontinued-every 17-inch MacBook Pro now comes with the 1920 x 1200 screen , in either ( standard ) glossy ( no-cost option ) matte form .
+While CPU speeds remain the same ( 2.5GHz stock , and $ 250 for an upgrade to 2.6GHz ) , RAM has been increased from 2GB to 4GB ( the maximum possible ) , and the hard drive size has increased to 320GB from 250GB .
+The standard drive is still a 5400rpm model , with ( as before ) the option of a 320GB 7200rpm drive .
+New to the 17-inch MacBook Pro , however , is an optional 128GB solid-state drive , as used in the updated MacBook Air .
+The MacBook Pros are shipping today .

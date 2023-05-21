@@ -1,0 +1,21 @@
+http : / / allthingsd . com / 20120611 / apple - unveils - new - macbook - air - next - generation - macbook - pro /
+Apple Unveils New MacBook Air , Next - Generation MacBook Pro
+JUNE 11 , 2012 AT 10 : 33 AM PT
+Apple's MacBook line , particularly certain portions of it , have been overdue for a refresh .
+Today , it finally got it .
+During the opening keynote of Apple's WWDC event Monday morning , Apple's Phil Schiller unveiled updates to both the MacBook Air and the MacBook Pro , as well as an entirely new next - generation MacBook Pro with a Retina Display .
+The new MacBook Air features third - generation 1 . 7GHz Intel Core processors , a new 512 gigabyte flash - storage option , 60 percent faster graphics , and USB 3 support via a dual USB 2 / USB 3 port .
+It also has a new price point that's $100 cheaper than its predecessor .
+The new MacBook Pro features Intel Ivy Bridge chips , running at up to a 2 . 7GHz , with faster graphics .
+It , too , has been given a USB 2 / USB 3 port .
+The 13 - inch model comes in $1 , 199 and $1 , 499 versions ; the 15 - inch model is offered in $1 , 799 and $2 , 199 versions .
+Also debuted this morning , Apple's new "next - generation MacBook Pro . "
+"It's the most beautiful computer we've ever made , " Schiller said , before listing the device's impressive specs .
+The machine is 0 . 71 inches thin , a quarter - inch thinner than the current MacBook Pro ; it weighs under 4 . 5 pounds .
+And yes , it boasts that rumored Retina Display .
+The screen is 2880 pixels by 1800 ; that's four times that of the prior MacBook Pro , and more than five million pixels total .
+The next - generation MacBook Pro's innards are equally impressive : An Intel quad - core i7 processor , up to 2 . 7GHz ; up to 16GB of memory ; Nvidia GeForce GT 650M graphics ; up to 768GB of internal flash storage ; up to seven hours of battery life ; SD card slot , HDMI , USB 3 , a new MagSafe 2 connector and , finally , two Thunderbolt ports .
+Legacy connectors like Ethernet and FireWire have been abandoned , but can run over Thunderbolt via an adapter .
+Price ?
+The basic model starts at $2 , 199 .
+The entire notebook lineup is available for purchase today .

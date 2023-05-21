@@ -1,0 +1,13 @@
+The only hardware release at Macworld Expo 2009 was a predictable unibody upgrade for the 17-inch MacBook Pro , which Apple reports will have an eight-hour battery life .
+Eight hours is surely impressive for such a large , powerful notebook .
+But this news is nonetheless underwhelming for several reasons .
+Some thought Apple was strategically waiting so it could ship the 17-inch MacBook Pro with a low-cost , quad-core processor .
+Intel released such a chip just recently , and APC suspected this CPU would appear in Apple 's top-of-the-line notebook .
+But much to our disappointment , the 17-incher is shipping with a plain ol ' dual-core ( Core 2 Duo ) chip .
+True , at 2.66 GHz it 's slightly faster than the other MacBook Pros .
+But there are hardly any substantial changes to justify the longer wait for this notebook .
+Apple was able to beef up the MacBook Pro 's battery by taking advantage of the generous amount of space available in the notebook 's enclosure .
+This battery is also non-removable , which Apple said was necessary to use as much space as possible .
+Apple also claims the new MacBook Pro 's battery is more environmentally friendly because it lasts five years and has fewer toxins .
+Looks like our Apple source , and several others in various blogs , were incorrect about the rumor of a new Mac Mini launching at Macworld .
+We 'll look into the reasons why and provide an update soon .

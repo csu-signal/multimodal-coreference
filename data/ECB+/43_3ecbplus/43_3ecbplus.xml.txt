@@ -1,0 +1,63 @@
+http : / / www . wired . com / wiredenterprise / 2012 / 02 / amd - acquires - seamicro /
+AMD Enters Server Business With Bold Acquisition
+02 . 29 . 12 4 : 15 PM
+Chip designer and chief Intel rival AMD has signed an agreement to acquire SeaMicro , a Silicon Valley startup that seeks to save power and space by building servers from hundreds of low - power processors .
+With the purchase , AMD will not only turn itself into a server maker , it will turn itself into a server maker that uses chips from Intel .
+Today , SeaMicro ’ s servers are built with processors from AMD ’ s rival , including Intel ’ s Atom mobile processors as well as Intel Xeon chips .
+AMD says it will continue to sell and support SeaMicro servers equipped with Intel chips “ for the foreseeable future . ”
+But it also hopes to license SeaMicro ’ s server “ fabric ” technology to other server sellers , including big names Dell and HP , and it plans to introduce AMD Opteron chips into SeaMicro machines sometime in the second half of the year .
+SeaMicro ’ s fabric is a way of efficiently connecting various pieces of server hardware , and the company says it can be used with virtually any processor .
+Less than a month ago , Intel and SeaMicro held a joint press event where they predicted a bright future together , so it would appear that the AMD acquisition came about rather quickly .
+But AMD ’ s Lisa Su — the company ’ s senior vice president and general manager for its global business units — says the chip designer has been eyeing technologies along the lines of SeaMicro ’ s for some time .
+“ We ’ ve been looking at the key technology innovations that are going to really disrupt the server market .
+We ’ ve been looking at fabric technologies — externally with a number of companies as well as internally , looking to develop ourselves — and we felt that SeaMicro was really the best option .
+It was proven , and it was in systems , ” Su said on Wednesday morning during a briefing with reporters .
+“ The complement of our processing capability and SeaMicro ’ s fabric technology gives us what we think is a very , very strong [ intellectual property ] portfolio . ”
+AMD will pay $334 million for SeaMicro , including $281 million in cash .
+The deal is expected to close in “ a number of weeks . ”
+Based in Sunnyvale , California , SeaMicro is at the forefront of a movement to build servers from ultra - low - powered processors — aka “ wimpy cores . ”
+The idea is to reduce power by splitting applications into small pieces that can be spread across a larger number of chips , not unlike the one running your cell phone .
+Texas startup Calxeda offers “ wimpy core ” servers equipped with chips using the ARM instruction set — an alternative to the x86 instruction set used by Intel and AMD — while HP is exploring the idea with a research effort it calls Project Moonshot .
+But last month , during that press event co - hosted by Intel , SeaMicro announced that it would also offer servers equipped with Intel Xeon chips , which were specifically designed for servers .
+Xeon consume more power , but they also offer more speed .
+SeaMicro says that certain software workloads are suited to the wimpy cores , while others are suited to “ brawny cores , ” and this same message is delivered by the likes of Dave Andersen , the Carnegie Melon professor who coined the wimpy core name .
+Whatever processor it uses , SeaMicro says , it can save power and space when you compare its machines to traditional servers .
+The company has built specialized ASIC chip loaded with software that allows the company to build ultra - small motherboards that include little more than processors , memory , and the ASIC itself — and then connect hundreds of these boards .
+According to the company , this technology is “ chip agnostic , ” meaning it can relatively easily be used with new chip architectures .
+AMD and SeaMicro say that they will “ explore ” the use of SeaMicro ’ s fabrics with all sorts of processors , both wimpy and brawny .
+This may include ARM chips .
+In recent weeks , AMD has hinted that it will eventually license ARM technology .
+Asked if the company will continue to offer ultra - low - power chips along the lines of the Intel Atom , SeaMicro CEO and co - founder Andrew Feldman said “ absolutely . ”
+But he declined to point to specific processor architectures .
+“ This [ SeaMicro fabric ] technology can work with larger cores and small cores .
+It can work with x86 and non - x86 .
+It can also move Ethernet traffic and storage traffic , ” Feldman said .
+AMD chief technology officer Mark Papermaster then piped up to point out that AMD is intent on using whatever chip technologies are needed to get a particular job done .
+“ If you look at our roadmap , we have a very agile [ system - on - a - chip ] , ” he said .
+“ It allows us to be more pushy in bringing in our IP . ”
+SeaMicro currently employs 80 people , and about half of them are engineers .
+One of those engineers is founder and chief technology officer Gary Lauterbach , who was previously an AMD fellow and one of five architects who build the core of AMD ’ s Opteron processor .
+Lauterbach was also a lead chip designer at Sun Microsystems , and the idea for SeaMicro first came to him when he and another Sun executive got a look at the low - power servers that powered Google ’ s search engine in the early part of the last decade .
+Andrew Feldman will become the general manager of AMD ’ s new “ data center solutions ” business .
+According to Su , this business unit will continue to support the current “ roadmap ” for SeaMicro ’ s servers .
+This means that the company will sell and service SeaMicro ’ s Intel Atom and Intel Xeon systems — though Su indicated that the company will eventually drop Intel ’ s chips .
+She said that AMD Opteron chips will be added to SeaMicro system “ towards the end of this year . ”
+Intel ’ s Jason Waxman — who heads the company ’ s general manager of Intel ’ s High Density Computing group — tells Wired that AMD ’ s acquisition of SeaMicro “ doesn ’ t change a whole lot ” for Intel .
+He says that AMD will decide whether to keep selling SeaMicro servers with Intel chips , and that Intel will continue to reduce the power consumption of both its Xeon and Atom chips for use inside servers .
+“ Being able to launch the SeaMicro product with Intel Xeon silicon was a good testimonial for us .
+They thought we were the best partner at the time , ” Waxman said .
+“ They chose our silicon for a reason . ”
+Whatever the fate of Intel chips in SeaMicro servers , AMD says the acquisition is about more than just selling machines .
+The idea is also to “ broaden ” AMD ’ s relationships with server sellers such as Dell and HP .
+Presumably , this means that AMD will license SeaMicro ’ s fabric technology to third - parties .
+“ We have new technology that we can add to our existing Opteron roadmap to form something that can really differentiate us in the marketplace , ” Su said .
+Andrew Feldman added that SeaMicro has already had discussions along these lines with the likes of Dell and HP .
+Currently , Dell resells SeaMicro servers .
+That said , the acquisition means that — on some level — AMD will be competing with its own customers .
+It will be both chip designer and server maker .
+But Su downplayed this notion .
+“ We are not competing with our customers .
+We have to balance the fact that will continue to support [ SeaMicro's ] products .
+But the goal is to proliferate the technology with OEMs , ” Su said , referring to original equipment manufacturers such as Dell and HP .
+“ What we saw was a chance to take our technology to multiple markets , with multiple partners , in multiple geographies — in ways we couldn ’ t do on our own , ” said SeaMicro CEO and new AMD general manager Andrew Feldman .
+“ The opportunity to collaborate with the OEMs was larger than the opportunity to compete with them . ”

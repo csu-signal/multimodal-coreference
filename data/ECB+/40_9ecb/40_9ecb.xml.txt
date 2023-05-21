@@ -1,0 +1,30 @@
+For me the new , unibody MacBook Pro 17-inch ( PN MB604LL/A ) is probably the most exciting thing announced here at Macworld Expo .
+Not only because I 'm more of a hardware guy but also because I 'm a MacBook freak .
+So , where to start ?
+The MBP has three compelling new features .
+The new MBP17 has a matte screen option .
+Can I get a Hallelujah ? !
+I 've been a staunch critic of glossy displays in MacBooks , and I 'm not the only one .
+It appears that Cupertino is finally listening .
+The unibody MacBook Pro 17 is the first in the new form-factor MacBooks to offer a configuration with a matte screen Apple calls `` antiglare . ''
+It 's a $ 50 option though , which is a bit of a slap in the face .
+If I 'm spending $ 2,800 on a notebook computer you 'd think that Apple would throw in the matte screen option .
+But at least it 's available , which is excellent .
+The question that remains is if the matte screen option will trickle down to the MBP15 and even the MB13 .
+Representatives in the Apple booth did n't know the answer when I asked them today .
+The new MBP17 can support up to 8GB of maximum RAM ( and has 4GB standard ) which is a huge step in the right direction .
+If you can get past the 8GB $ 1,200 sticker price , that is .
+I 'm sure that the RAM price is so high because the new 17 ships with two , 2GB 1066MHz DDR3 SDRAM modules and both have to be removed and replaced with two , 4GB modules to get to 8GB .
+Prices will eventually come down and 8GB is an attractive option for memory hungry applications and anything to do with virtualization .
+The MBP17 's fixed battery is a bit of a scandal .
+It 's as if Apple did n't learn its lesson with the MacBook Air and iPhone batteries .
+After watching the video by the battery engineers during today 's keynote , I 'm partially convinced .
+Their justification is that fixed batteries save a lot of room previously occupied by connectors , latches and doors .
+A fixed battery can use more internal real estate in the enclosure to store power - goes the refrain. As a result the MBP17 fixed battery holds 40 percent more energy and will last up to 8 hours on a charge ( 7 hours when using the faster NVIDIA 9600M GT chip ) according to Apple .
+I 'm curious about the real-world run times though .
+Most companies base their battery benchmarks on perfect world conditions and it will be interesting to see how long the new battery really lasts .
+The third USB port is a welcome addition but it comes at the expense of a dedicated FW400 port on the previous model .
+Solid State Drives ( SSDs ) are now available as 128MB ( + $ 500 ) and 256MB ( + $ 900 ) options .
+In case you 're wondering , a maxed out MBP17 configuration ( 2.93GHz , 8GB , 256GB SSD and anti-glare ) will set you back $ 5,250 .
+Start saving your nickels and dimes , kids .
+I 'm going to wait and see if the anti-glare screen trickles down to the MBP 15-inch before diving in , although the 8GB of RAM is attractive .

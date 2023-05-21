@@ -1,0 +1,27 @@
+http : / / www . datacenterknowledge . com / archives / 2012 / 02 / 29 / amd - to - acquire - server - innovator - seamicro /
+AMD to Acquire Server Innovator SeaMicro
+February 29th , 2012
+In a bold move to boost its position in next - generation servers , AMD will acquire low - power server specialist SeaMicro for $334 million , the companies said today .
+The acquisition is a disruptive one for the low - power server landscape , as SeaMicro has been using Intel chips in its next - generation servers , which offer dramatic reductions in power and space usage .
+The crown jewel in the acquisition is SeaMicro ’ s networking fabric , which allows hundreds of low - power processors to work together .
+The SeaMicro architecture is processor - neutral , meaning it can be quickly adapted to work with AMD ’ s technology .
+“ By acquiring SeaMicro , we are accelerating AMD ’ s transformation into an agile , disruptive innovator capable of staking a data center leadership position , ” said Rory Read , president and CEO , AMD .
+“ SeaMicro is a pioneer in low - power server technology .
+“ We are clearly skating to where the puck is going , ” Read added .
+“ This is a great company with innovative IP and great talent . ”
+The Importance of the Cloud
+AMD plans to offer the first AMD Opteron processor - based solutions that combine AMD and SeaMicro technology in the second half of 2012 .
+The company said it remains firmly committed to its traditional server business , and will continue to invest in research and development .
+But AMD executives said the acquisition of SeaMicro will boost the company ’ s offerings for cloud computing providers , who are keenly focused on reducing the energy used by their armadas of servers .
+“ Cloud data centers are the fastest growing segment of the server market , ” said Lisa Su , Senior Vice President and General Manager , Global Business Units .
+“ The cloud has changed the dynamics of the data center and how people think about servers . ”
+Su said AMD will offer SeaMicro servers with AMD chips to provide continuity for existing customers .
+But the primary focus will be on integrating SeaMicro ’ s fabric technology with AMD processors in “ building blocks ” for its OEM customers .
+Downsized “ Building Block ”
+The basic building block of the SeaMicro system is a credit card - sized compute block , comprised of a CPU and its chipset , DRAM , and a custom SeaMicro ASIC ( application specific integrated circuit ) .
+SeaMicro ’ s patented I / O virtualization allows companies to save money by using fewer cables and network interface cards ( NICs ) to connect to networks and storage .
+SeaMicro ’ s early systems featured up to 768 Intel Atom cores in a 10U server .
+It recently introduced a server powered by 64 Intel Xeon processors , providing a “ brawny ” offering to supplement the “ wimpy ” Atom nodes .
+One of the benefits of the AMD acquisition is the ability to adapt SeaMicro ’ s technology to a broader range of workloads and applications , according the SeaMicro CEO Andrew Feldman .
+“ SeaMicro was founded to dramatically reduce the power consumed by servers , while increasing compute density and bandwidth , ” said Feldman , who will become general manager of AMD ’ s newly created Data Center Server Solutions business .
+“ By becoming a part of AMD , we will have access to new markets , resources , technology , and scale that will provide us with the opportunity to work tightly with our OEM partners as we fundamentally change the server market . ”

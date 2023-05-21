@@ -1,0 +1,71 @@
+http : / / www . nbcnews . com / technology / apple - unveils - latest - macbook - pros - ios - 6 - iphone - ipad - 823346
+Apple unveils latest MacBook Pros , iOS 6 for iPhone and iPad
+June 11 , 2012 at 12 : 36 PM ET
+After a witty intro by Siri herself , Apple CEO Tim Cook took the stage in San Francisco to welcome developers and announce new stuff .
+Cook had a lot to say about the success of the app program , with 30 billion downloads of 650 , 000 distinct apps worldwide .
+Once Cook rattled off the specs , they played a video about the success of apps , from one that a blind man built to help seeing - impaired people get around , to the successful Airbnb , a place for couch surfers to find homes away from home , to a speech therapy tool for iPad that's helping a little girl learn how to communicate .
+It may be marketing , but parts are truly touching .
+Needless to say , the developers applauded profusely .
+"We would like to thank everyone in the developer community for the incredible apps that you've done for us , " says Cook .
+New MacBooks
+Next , global marketing VP Phil Schiller announced updates to the MacBook line .
+The MacBook Air gets 3rd - gen Core chips , up to 2GHz dual - core i7 .
+It also gets storage up to 512 GB Flash storage , with 2x read speed .
+And it gets USB 3 . 0 and a 720p camera .
+The new models start shipping today .
+The 13 - inch and 15 - inch MacBook Pros get Ivy Bridge processors , a new - generation GeForce graphics card and USB 3 . 0 , while the prices stay the same .
+But the big news is the "next generation" MacBook Pro , which is about as thin as a MacBook Air , with a 15 - inch "retina display" of 2880 x 1800 pixels .
+It's ridiculously gorgeous and thin .
+But it's not just about the display and thinness .
+There's a quad - core i7 chip up to 2 . 7GHz ; up to 16GB of RAM ; the new GeForce Kepler graphics and 768GB of internal flash storage .
+YOW !
+Battery life sounds right : 7 hours on a charge , with 30 days of standby .
+And as for ports : SD , HDMI , USB 3 , a new MagSafe 2 and two Thunderbolts ports .
+There is no optical drive .
+Read into that what you will , but clearly Apple will not be supporting Blu - ray anytime soon ( or ever ) .
+Adobe , Autodesk and others are developing apps to work with the new retina display .
+( Aside to the creative people : Hooray for Photoshop being in sync with Mac development ! )
+OS X 10 . 8 Mountain Lion
+After the pulse - racing MacBook unveiling , Apple execs took things down a notch to discuss features of OS X 10 . 8 , Mountain Lion , including drill - down on stuff that has already been revealed .
+For a quick look at those features , have a look here .
+Some awesome ones include Messages , dictation , sharing and AirPlay mirroring , which lets you send up to 1080p video from Mac to Apple TV .
+The new Safari is great : You can click a cloud icon to see tabs open on other devices such as iPads and iPhones , and if you zoom out , each tab becomes a thumbnail , so you can easily get to the tab you want .
+Mountain Lion will launch next month , and will cost $19 . 99 .
+We've got more details on Mountain Lion's upcoming release here .
+iOS 6 for iPhone and iPad
+Following Mountain Lion , SVP of iOS software Scott Forstall took the stage to unveil iOS 6 , something that had been somewhat confirmed , but without any details .
+First on his agenda was Siri : "In eight months , Siri has been studying up and learning a lot , " says Forstall .
+Now , in iOS 6 , you can ask score of last Giants game , even batting average of a given player , team standings .
+Impressive ( if it works in my house ) .
+Forstall : "Who is taller , Lebron or Kobe ? "
+Siri : "Lebron James appears to be slightly taller . "
+In addition to sports , Siri does more with restaurant details , and is partnered with Yelp for reviews and OpenTable for reservations .
+Yes , you can make dinner reservations with Siri .
+Good news for a food person like myself .
+For movies , Rotten Tomatoes reviews are integrated , and you can tap inside Siri to watch trailers .
+Best of all , Siri can now launch apps .
+New driving mode for Siri : "Eyes free , " says Forstall .
+Button on steering wheel of some car manufacturers including GM , Toyota , Honda , Land Rover , Audi , Mercedes Benz and BMW .
+Siri will also speak 15 languages including Korean , Italian , Mandarin and Cantonese .
+Facebook integration is next .
+Integrated within iOS 6 ( photos , calendars , contacts , etc . ) and even the App Store and iTunes , where you can like stuff , instead of Pinging it like nobody does now .
+Forstall says Facebook is coming to Mac OS , too , though it wasn't mentioned earlier .
+Apple is building its own mapping service , complete with fresh maps of the whole globe , plus built - in turn - by - turn navigation , so you don't need a third - party app anymore .
+There's also crowd - sourced traffic data ( anonymously gathered , says Apple ) tied into the service , so you have realistic ETAs and smart routing .
+There's also a beautiful new photo mapping feature called "Flyover" which lets you view major landmarks in 3 - D .
+Not sure if they've got your house in there , but it's gorgeous to look upon .
+More iOS 6 stuff , in rapid succession :
+"Reply with message" - gives you the option to send canned messages to callers .
+Also a "Remind me later" feature with time and geo - tagged reminders for ignored calls .
+"Do Not Disturb" - Phone won't bother you with calls and alerts , includes plenty of control ( no calls at all or just calls from favorites , etc ) .
+FaceTime enabled over cellular with iOS 6 .
+Apple is unifying phone numbers and Apple IDs - - you can now answer calls on iPad or Mac - - it's huge news but apt to depress the mobile carriers .
+In mobile Safari , there's now photo updating , and there's now more cross - talk between apps and browser .
+Shared Photo Stream - - think Instagramm style comments and integration with Mac , iPhone , Apple TV etc .
+VIP contacts and a "flagged" mailbox for the most important people in your life .
+Insert photos and video into mail more easily .
+Single App Mode and Guided Access let you lock people into one app , for parental control , education , testing , museum tours , etc .
+Forstall introduced a whole new app , too , called Passbook .
+Codes for boarding passes ( United , Amtrak ) , store cards ( Starbucks , Target ) , tickets ( Fandango , SF Giants ) , reservations ( W Hotels ) , etc . are all collected in one app .
+When you visit the store or venue , the app automatically pulls up the right card .
+And when you're done with a given card , there's a cute shredding animation .

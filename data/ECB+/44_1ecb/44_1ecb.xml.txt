@@ -1,0 +1,26 @@
+Can EDS Remain Vendor-Neutral Under HP` s Thumb ?
+Will EDS remain open-minded about obtaining products and services from other vendors ?
+Industry analysts contacted by eWEEK generally say they believe that Hewlett-Packard 's forthcoming $ 13.9 billion acquisition of Electronic Data Systems ? announced officially on May 13 is a good move for both companies , although there will be the usual integration snafus over vendor neutrality issues , business lines , culture shock and layoffs .
+Analysts have also said it is a good move overall for customers and potential customers , because the combined company will offer them a greater palette of products and services from which to choose .
+A combined HP-EDS will certainly put a new kind of pressure on IT services leader IBM .
+IBM 's $ 54 billion-per-year Global Services arm-by far the largest in the world-will start to feel the heat from the combined HP-EDS entity , which will start out at a net worth of $ 38 billion per year .
+For high-end enterprise IT services before this merger , the market consisted of IBM and everybody else .
+IT Swiss army knife is all can openers
+The biggest unanswered question on people 's minds involved vendor neutrality for EDS and its current customers .
+EDS for years was a sort of IT Swiss army knife in that it used whatever products and services from other vendors were needed to complete its job correctly and within budget constraints .
+With its impending new ownership by one of those key vendors , that picture may change .
+`` We do n't know what will happen with EDS ' vendor neutrality , '' Rick Sturm , founder and president of Enterprise Management Associates , told eWEEK .
+Overall , my take is that this transaction sounds great in theory , but there many potential pitfalls .
+This is one of them .
+For example , EDS has largely standardized on management software from CA .
+Will they migrate to HP software now ?
+That would take a long time and a lot of money , '' Sturm said .
+`` On the other hand , it does n't make sense to help support a competitor with license and maintenance fees .
+That is just one small point regarding neutrality . ''
+EDS , in fact , has a large current contract with CA for network and systems management in direct competition to HP 's OpenView .
+CA had no immediate comment May 13 .
+At least initially , Sturm said , there will be little noticeable impact on customers from the deal .
+`` There will probably be some service impacts once the organizations truly merge and consolidate resources , '' he said .
+`` [ HP CIO ] Randy Mott has been driving data center consolidation and standardization .
+I expect that effort will be renewed with EDS .
+Disruptions are inevitable with such migrations . ''

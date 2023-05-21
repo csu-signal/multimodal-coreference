@@ -1,0 +1,37 @@
+http : / / www . pcworld . com / article / 251191 / amds _ acquisition _ of _ seamicro _ puts _ intel _ on _ the _ defensive . html
+AMD's Acquisition of SeaMicro Puts Intel on the Defensive
+Mar 2 , 2012 12 : 30 PM
+Intel suffered a setback in the server market this week with the news that its former partner , SeaMicro , is being acquired by AMD .
+But the world's top chip maker said it was internally developing technology to remain competitive in the dense server market .
+Intel is developing integrated fabrics to boost I / O and high - performance networking and storage in servers , said Jason Waxman , general manager of Intel's data center business unit , in an interview .
+The technologies are being developed as the company tries to boost its presence in the market for dense servers used in cloud computing deployments in data centers .
+AMD is paying US$334 million for SeaMicro , which until now was in a tight partnership with Intel to develop dense servers .
+AMD plans to sell SeaMicro - branded servers and license to customers its fabric technology , which virtualizes I / O and ties together storage and networking .
+The deal is expected to close in March .
+SeaMicro provides AMD an instant presence in the nascent but fast - growing dense server market , and Intel will now be playing catch - up , analysts said .
+SeaMicro currently sells servers only with Intel processors , and it is likely that AMD will swap those with its own chips .
+Intel said it will continue to provide processors for SeaMicro servers , depending on the requirements .
+AMD's purchase of SeaMicro was an unexpected but smart move , said Nathan Brookwood , principal analyst at Insight 64 .
+The dense server market is growing as companies look to curb electricity costs by deploying low - power servers to respond to Web and database queries .
+But AMD's prize in the acquisition is SeaMicro's specialized fabric , Brookwood said .
+SeaMicro's dense servers have many credit - card - sized motherboards that are connected by the fabric , which reduces the need for extra storage and network controllers .
+It could take Intel years to develop technology that is competitive with SeaMicro's fabric , Brookwood said .
+And Intel will need to prove its technology is reliable before it is widely adopted .
+"Intel has all the pieces and all the technology and the smart people to put this together .
+But it takes time , " Brookwood said .
+The SeaMicro deal gives AMD a technological head start , but it will also intensify Intel's focus on developing related technology , said Dean McCarron , principal analyst at Mercury Research .
+Intel's Waxman didn't specify how Intel would build the fabric and I / O technology , but said the company would utilize assets from recently acquired networking companies .
+In July it acquired Fulcrum Microsystems , which makes Ethernet switches , and last month it purchased InfiniBand assets from Qlogic , which provides high - performance fabric technology for servers .
+Intel also will remain competitive through new processors , memory and system management technologies .
+But by the time Intel's fabric technology matures , analysts said that AMD could be far ahead in the integration of SeaMicro's technology inside chips .
+AMD in the future will allow implementation of third - party intellectual property inside chips , and by 2013 or 2014 , SeaMicro's IP could be inside Opteron server chips .
+Currently SeaMicro's ASIC ( application - specific integrated circuit ) controlling the fabric is placed on the motherboard alongside the processor and memory .
+When integrated inside a chip , it could be similar to Calxeda's EnergyCore chip , which will be used by Hewlett - Packard in its upcoming ARM server .
+The Calxeda chip includes cache , an 80 - Gigabit fabric switch and a management engine for power optimization .
+AMD will be able to license the fabric technology to work on ARM processors , which could also put pressure on Intel , analysts said .
+ARM processors are mainly found in smartphones and tablets , but there is growing interest in building power - efficient ARM servers .
+AMD will be able to differentiate its offerings from Intel's by offering SeaMicro technology with either ARM or x86 processors as early as 2013 , said Matt Eastwood , group vice president for enterprise platform research at IDC .
+AMD currently offers only x86 chips , but the company's chief technology officer , Mark Papermaster , has not ruled out implementing ARM IP on its future chips .
+But Intel's Waxman said the AMD - SeaMicro deal does not change Intel's dense server strategy , and the chip maker will continue to work with customers like Dell and Tyan .
+"A part of our strategy is to provide a full portfolio of ingredients , " Waxman said .
+"We've got the right assets in our arsenal . "

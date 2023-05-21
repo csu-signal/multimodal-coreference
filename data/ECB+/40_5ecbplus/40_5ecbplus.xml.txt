@@ -1,0 +1,16 @@
+http : / / www . gizmag . com / macbook - air - 2012 / 22913 /
+Apple unveils cheaper Ivy Bridge - powered MacBook Air
+June 12 , 2012
+Apple has chosen WWDC week to announce an update to its MacBook Air line .
+It may lack the Retina display of its newly upgraded , headline - grabbing cousin , the MacBook Pro , but the 2012 Air sees significant advances too .
+An upgrade from Sandy Bridge to Ivy Bridge processors with improved integrated graphics is chief among the upgrades , and onboard memory has also received a boost .
+What hasn't changed is the ultra - thin form factor and ( with the thick end of the wedge maxing out at 0 . 68 in or 17 mm ) , weighing in at 2 . 38 pounds ( 1 . 08 kg ) for the 11 - inch model and 2 . 96 pounds ( 1 . 35 kg ) for the 13 - inch .
+Battery performance remains as is ( which is no bad thing ) , with a touted 5 and 7 hours for the smaller and larger models respectively while wirelessly browsing the web .
+What's new is an upgrade from Sandy Bridge to the faster Ivy Bridge processor , which brings with it a switch up from Intel HD Graphics 3000 to Intel HD Graphics 4000 .
+This should bring with it a noticeable performance boost , though its doubtful that hardcore gamers will be rushing to buy the new Airs as portable gaming rigs this year .
+The included random access memory allowance has doubled from 2 to 4 GB ( configurable to 8 GB ) , and has been upgraded to lower voltage 1600 - MHz DDR3L SDRAM .
+Flash storage remains at 64 GB and 128 GB in the entry - level 11 - and 13 - inch models respectively , though this is now configurable up to 512 GB .
+Connectivity sees a significant boost with the inclusion of two USB 3 . 0 ports in addition to the Thunderbolt port .
+The USB 3 . 0 standard allows data transfer more than ten times the speed of USB 2 . 0 .
+The power connection has been upgraded to Apple's MagSafe 2 , which is simply an even smaller version of the MagSafe port that lets the power cable disconnected safely in the event of jarring cable snag , preventing unwelcome MacBook / floor interface scenarios .
+Though the 11 - inch Air still starts at US$999 , the 13 - inch has dropped $100 to $1199 , making it all the more compelling to laptop - hunters on the prowl for an ultrabook .

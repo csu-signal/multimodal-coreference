@@ -1,0 +1,16 @@
+http : / / www . networkworld . com / news / 2007 / 111207 - hp - acquires - eyp - green - consultancy . html
+HP to acquire green consultancy EYP
+HP signs agreement to acquire EYP Mission Critical Facilities and incorporate energy - efficient - facilities expertise into HP's data center services
+November 12 , 2007 02 : 14 PM ET
+As part of its efforts to support energy - efficient computing , HP Monday announced it has signed an agreement to acquire facilities consulting firm EYP Mission Critical Facilities for an undisclosed sum .
+HP says the deal , which will bring EYP MCF's 350 employees into a new division under HP Services , will help HP better address customers' needs for more efficient data centers .
+The combined EYP and HP Services will let large , enterprise companies couple efficient facilities design with an optimized IT infrastructure .
+Until recently , HP officials say , IT executives handled facilities and data - center design efforts separately .
+With this acquisition , HP aims to bring the two more closely together and help build dynamic computing environments from the start .
+"Data center transformation is a key focal point for the HP Services team , " says John McCain , senior vice president and general manager of HP Services .
+"Power consumption is becoming one of the largest components in terms of the bill in data centers today . "
+To combat the increase in energy spending , HP Labs has developed technology to conserve energy and delivers it via such products as HP Dynamic Smart Cooling and HP Thermal Zone Mapping .
+The deal , according to EYP MCF representatives , will let consultants expand beyond facilities planning and offer expertise in large - scale data - center design .
+"IT infrastructure is ready for a major paradigm shift in the way that mission - critical facilities are delivered to the marketplace , " says Steve Einhorn , chairman of EYP MCF .
+"The data center and its facility are ready for a major change . "
+HP says it expects the deal to close by its first fiscal 2008 quarter , which ends January 31 .

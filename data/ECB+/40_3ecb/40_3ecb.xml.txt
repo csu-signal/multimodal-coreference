@@ -1,0 +1,17 @@
+Apple on Tuesday launched a refresh of the 17-inch MacBook Pro , giving the company 's largest laptop an eight-hour battery life , a faster Intel ( NSDQ : INTC ) processor , and better graphics capabilities .
+The upgraded product was the only hardware announcement at the opening Macworld keynote , which was delivered by Phil Schiller , senior VP for worldwide product marketing at Apple .
+Breaking with tradition , the company announced late last month that co-founder and chief executive Steve Jobs would not kick off the trade show .
+In addition , Apple stunned the industry by saying this year would be its last appearance at Macworld .
+The absence of Jobs led many analysts to believe that Apple would not make any major product announcements , and the prediction turned out to be correct , particularly in terms of hardware .
+The MacBook was the only Apple computer to get an upgrade , which is sure to disappoint fans who had also hoped for updates to the company 's Mac Mini and Apple TV .
+Apple observers had expected the refresh of the 17-inch MacBook Pro , given that it was left out of Apple 's notebook event in October , when the company launched updates of the 15-inch and 13.3-inch systems .
+But while some analysts said the larger laptop could get a big speed boost with an Intel quad-core processor , Apple stuck with an Intel dual-core chip , which has been upgraded to a 2.66-GHz Core 2 Duo processor with 6 MB of on-chip L2 cache .
+Buyers also have the option of a 2.93-GHz Core 2 Duo processor .
+But the most innovative feature in the upgrade is a new battery that Apple claims will last up to eight hours on a single charge and can be recharged up to 1,000 times , which means up to a five-year lifespan .
+RivalsDell ( Dell ) and Hewlett-Packard ( NYSE : HPQ ) last year introduced laptops with similar battery life on a single charge .
+The Apple battery achieves its better performance by using custom-designed lithium-polymer cells that are 40 % larger than the previous generation .
+However , to fit the battery in the system , Apple has made it nonremovable , which may turn off some potential buyers .
+Because of the extended lifespan of the battery , Apple says the MacBook is more environmentally friendly than the previous generation , since the power supply does n't have to be replaced so often .
+The notebook is less than an inch thick , weighs 6.6 pounds , and features a light-emitting diode screen with a $ 50 anti-glare option .
+In addition , the system comes with an Nvidia GeForce 9400M integrated graphics processor and a discrete Nvidia 9600M GT processor .
+Switching to the latter gives better graphics performance at the expense of about an hour of battery life .

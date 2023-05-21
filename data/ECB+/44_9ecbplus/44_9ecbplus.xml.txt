@@ -1,0 +1,10 @@
+http : / / www . cio - weblog . com / 50226711 / hp _ digs _ further _ into _ consulting . php
+HP digs further into consulting
+November 12 , 2007 10 : 30 pm
+HP has been moving fast and strong into services and have continued the trend with today's acquisition of EYP Mission Critical Facilities , a consulting firm specializing in large data center design and operations support .
+Coming on the heels of last month's expansion of their SaaS offerings , one imagines that before long you will simply be able to turn your keys over to HP and take off on a long vacation while they provision , support , and run your business .
+In fact , this may not be far from the vision that CEO Mark Hurd has for the company , as revealed today also during his keynote speech at Oracle's OpenWorld conference .
+Consolidation has clearly been on his mind , and the recent acquisitions presage more in the future , driven as he states by " … a push from an IT perspective to do more standardization and to have fewer suppliers , " as well as a number of players with an excess of cash on hand .
+While I am certainly one of those pushing from the IT perspective to have fewer suppliers and more standardization , you have to be careful how you go about it , and although I am sure acquisition such as EYP MCF are brilliant for HP's business , I am skeptical about their value to customers .
+I think the conflation of purveyors of advice with purveyors of service and equipment is dangerous and if anyone was expecting to get unbiased opinion out of EYP MCF about the gear to build out their data center with , that's probably gone by the wayside .
+Consolidation can be a boon when it results in better alignment and firmer standards ; the danger is when the alignment locks you in to a vendor and the standards turn out to be proprietary .

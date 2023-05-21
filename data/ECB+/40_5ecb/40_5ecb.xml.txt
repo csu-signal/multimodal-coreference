@@ -1,0 +1,57 @@
+Today may be Apple 's last Macworld Expo appearance but Apple came bearing gifts .
+At today 's keynote event , Apple introduced a collection of new and refreshed software and hardware products to show off on stage .
+Apple 's first hardware announcement at Macworld today introduced the 17 '' MacBook Pro .
+Built on the precision unibody enclosure , the Pro was launched as the `` world 's thinnest 17 '' notebook , '' at only 0.98 inches thick , and also the `` world 's lightest , '' weighing in at 6.6 pounds
+Its LED backlit display supports a 1920x1200 pixel resolution .
+Other features include a 60 % greater color gamut , a 700:1 contrast ratio , improved viewing angles , and ( thankfully ) a matte screen option as well as a glossy option .
+The antiglare option will cost an additional $ 50 .
+The $ 2799 17 '' Pro , which is due to ship in late January , offers 3 USB 2.0 ports , FireWire 800 , a mini display port , an express card , a glass trackpad , and up to a 2.93 GHz dual core processor .
+The unit supports up to 8GB of DDR3 memory and offers a 320 standard HDD .
+A 256 SSD drive is optional .
+Apple considers the updated battery its most innovative new feature .
+According to Schiller , it offers the longest battery life ever , with up to 8 hours of use on a single charge for the 9400M ( 7 hours on the 9600 GT ) and up to 1000 charges in a lifetime .
+Importantly , Apple managed to include these improvements without changing the size or weight of the laptop .
+The embedded battery uses lithium polymer technology and lasts `` three times longer than the industry standard '' in terms of number of charges over that lifetime .
+An embedded chip in the battery adjusts the power to cells within the battery through `` adaptive charging . ''
+The new battery is also environmentally green .
+iTunes goes DRM-free
+Today Apple announced that it was breaking its $ 0.99 per track model and dropping DRM for 8 million songs .
+The fixed price track gave way to three price tiers : $ 0.69 , $ 0.99 , and $ 1.29 per song .
+Apple also expanded the iPhone music store from WiFi only to 3G service .
+Phil Schiller , Apple 's Senior Vice President of Worldwide Marketing , stood in for a recuperating Steve Jobs and kicked off the show with a new $ 79 version of iLife 09 ( $ 99 for a family pack ) , which is due to ship at the end of January .
+iLife is Apple 's suite of consumer photo , movie , and web applications .
+iPhoto '09 gained a suite of new features like `` Faces '' for organizing photos based on facial recognition , `` Places '' for integrating Google Maps and viewing photos based on their geo-tags , syncing with Facebook and uploading to Flickr , new slideshow themes that can be saved out to iTunes as movies , and more .
+iMovie was refreshed with several new features including a precision editor , dynamic themes and animated travel maps .
+iMovie chief architect Randy Ubillos demonstrated the updated software , showing how to edit audio with a new advanced drag and drop system .
+Of particular note is iMovie 09 's video stabilization feature .
+This automatically corrects for jitters and shakes , enhancing hand-held movie camera footage .
+GarageBand 09 debuted a new `` Learn to Play '' feature that helps users master the guitar or piano with an interactive video instructor .
+The nine ( free ) basic lessons get end-users up to speed with instruments , and then celebrity artists offer how-to lessons on specific songs .
+Celebrity lessons cost $ 4.99 per lesson and can be purchased from the in-application store .
+This offers an entirely new revenue stream for Apple that will certainly appeal to the new RockBand generation .
+Apple 's iWork represents their office suite of tools , including the Keynote presentation tool , the Pages word processor , and the Numbers spreadsheet tool .
+Keynote '09 introduces updated transitions using Apple 's new `` Magic Move '' technology , which offers finer control of objects in slide presentations .
+The updated Keynote also adds new themes and transitions for text and charts .
+An iPhone application , `` Keynote Remote , '' augments presentations .
+In vertical mode , the remote app shows your slides and notes together .
+In horizontal mode , it mimics the Photos application on the phone , allowing you to flick from one slide to the next .
+The Pages '09 update introduces full screen viewing , letting you block out other items on your computer and focus on the task on hand .
+You will not be interrupted by incoming mail or iChat IMs when using full screen mode .
+Dynamic outlines are another new feature , providing a way to organize your writing with drag and drop .
+You can switch back and forth between the standard page view and the outline view , letting you move sections around and then return to editing them .
+The Pages refresh offers 40 new templates , including newsletters , posters , fliers , certificates , and business correspondence .
+Numbers '09 also received a refresh , which focused on expanding features requested by customers .
+Among other updates , Numbers introduces table categories , easier formula creation , and advanced chart options .
+The refreshed Numbers now supports mixed chart types , multiple axes , trend lines and error bars .
+Apple also introduced better Pages/Numbers integration with live updates .
+When users change a Numbers spreadsheet , it automatically updates in any Pages document it 's cross-linked to .
+Numbers also introduces presentation templates to enhance the visual appeal of its documents .
+iWork '09 ships today and will cost $ 79 for a single license , $ 99 for a family pack and $ 49 with a new Mac .
+For users who have held off on buying Leopard , Apple introduced a new Mac Box Set .
+This set bundles Leopard , iLife and iWork for $ 169. It 's due to ship in late January , when iLife '09 ships .
+Apple announced a new collaborative site called iWork.com that 's built around iWork .
+Launching in Beta , iWork.com lets users share documents and collaborate online with each other .
+Users can and edit documents as well as comment on them .
+The site supports multiple formats for downloads and sharing and is fully integrated into iWork applications .
+You can upload documents directly from Pages and other iWork applications by clicking the iWork.com button .
+The service will become fee-based after leaving beta , but is free for the duration of the beta .

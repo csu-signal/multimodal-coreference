@@ -1,0 +1,10 @@
+Graphic Talk About Nvidia
+Addressing a deficiency of its own and further upping the competitive tension between it and chief rival Intel ( nasdaq : INTC - news - people ) , Advanced Micro Devices ( nyse : AMD - news - people ) intends to acquire graphics chipmaker ATI Technologies ( nasdaq : ATYT - news - people ) in a $ 5.4 billion deal .
+Is Intel below $ 19 too cheap to last or still above what the chipmaker 's worth ?
+The question for many is where that leaves Nvidia Corp. ( nasdaq : NVDA - news - people ) , now the sole independent graphics chip maker addressing each of the computing , mobile communications and display markets .
+We think not too much worse off than before the deal , and believe shares in the company remain a compelling way to play growth in gaming- and media-oriented computing .
+Our view of the Advanced Micro Devices / ATI Technologies deal is that it 's the last major move AMD needed to make to match Intel 's breadth in the processor market ( now that Intel has shed its communications processor business ) .
+Intel has had for some time the ability to integrate graphics capabilities into its offerings for PC makers , resources for which AMD has had to rely on other folks , including both ATI and Nvidia .
+The AMD/ATI combination now trumps Intel 's strategy by adding the capacity to package higher-end chips for gaming and complex graphic manipulation .
+We 're not sure that 's a huge game-changer for ATI in its ongoing match against Nvidia , though .
+We doubt AMD would shut out Nvidia 's ability to integrate with its core processors , as any such move might lessen the attractiveness of AMD 's core products to that crowd .

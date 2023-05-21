@@ -1,0 +1,19 @@
+http : / / www . infoworld . com / d / green - it / hp - lands - green - datacenter - consultant - eyp - 725
+NOVEMBER 12 , 2007
+HP lands green datacenter consultant EYP
+Extending its reach into the ripening green - consulting space , HP today announced the acquisition of EYP Mission Critical Facilities , a consulting company specializing in strategic technology planning , design and operations support for large - scale datacenters .
+Extending its reach into the ripening green - consulting space , HP today announced the acquisition of EYP Mission Critical Facilities , a consulting company specializing in strategic technology planning , design and operations support for large - scale datacenters .
+The financial details of the acquisition were not disclosed .
+HP's aim , however , is clear : to tap into the growing demand for more energy - efficient datacenters by bolstering its existing Data Center Services , and no doubt hawking more HP gear along the way .
+"The datacenter is the foundation of IT for enterprises , an essential building block for driving business growth and adapting to changing business objectives , " said John McCain , senior vice president and general manager of HP Services in a written statement .
+"Acquiring EYP Mission Critical Facilities boosts HP's ability to help customers transform their datacenters and build dynamic computing environments from the ground up . "
+EYP has developed a green reputation since its establishment in 2001 as a split - off from A / E giant Einhorn Yaffee Prescott .
+Headquartered in New York with 13 offices worldwide and technical staff of more than 350 , the company's arsenal of tools includes a homegrown software package called EnerOpt , designed to assess and optimize energy consumption in the datacenter .
+Among its clients , the company claims 25 percent of the Fortune magazine's list of top EPA Green Partners .
+Moreover , the company designed the first LEED - rated datacenter for Fannie Mae in Urbana , Maryland , and is currently designing a datacenter for the Lawrence Berkeley National Labs .
+Like other big - name hardware companies , including IBM , Dell , and Sun , HP has been playing up the green credentials of its wares , such as its Smart Dynamic Cooling offering , power capping features in its Systems Insight Manager software , and its recently announced line of more energy - efficient ProLiant BL460c blades .
+Moreover , the big boys of technology have also started adding more green - hued services to their portfolios .
+In August , IBM added http : / / blogs . business2 . com / greenwombat / 2007 / 08 / ibm - moves - into - . html ">carbon consulting to business consulting operation .
+Also in August , Sun unveiled an Eco Services Suite .
+BT is also on the list .
+HP's acquisition of EYP is subject to certain closing conditions and is expected to be completed within HP's first fiscal quarter .

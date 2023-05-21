@@ -1,0 +1,15 @@
+Taiwan Semiconductor Manufacturing Co. ( TSMC ) shares rose yesterday after two of the world 's largest chipmakers said their merger would not create a negative impact on the Hsinchu-based foundry , dispelling investors fears .
+TSMC stock traded on the TAIEX closed at NT $ 53.8 yesterday , up NT $ 0.9 from the previous trading day .
+Yesterday Advanced Micro Devices Inc. ( AMD ) , a leading global CPU maker , announced its purchase of Canada-based graphics chips maker ATI Technologies Inc. in a US $ 5.4 billion deal that many said would help AMD compete more effectively with Intel Corp. , its largest-in-the-world rival .
+Analysts also said the merger would cause a reshuffle in the global PC industry , affecting chip foundries - including TSMC - that manufacture Intel-based graphics chips for ATI on an original equipment manufacturing basis .
+ATI , the largest maker of computer graphics chips for notebook computers , outsources the manufacturing of its chips , while Advanced Micro has facilities to produce some of its own processors .
+In a news conference announcing the merger held in Taipei yesterday , Henri Richard , executive vice president of AMD , urged investors not to worry as ATI 's relations with TSMC and its rival United Microelectronics Corp. would not change .
+He said ATI and its suppliers use the so-called CMOS manufacturing technology , which is different from what AMD uses .
+UMC yesterday closed at NT $ 18 , up NT $ 0.05 .
+Some analysts however expressed the concern that the merger would impact TSMC in the long run , as loss of ATI orders would cause TSMC to see its capacity utilization lowered by 20 to 30 percent .
+TSMC , the world 's largest maker of customized chips , said itself Monday night it will continue to manufacture for ATI .
+`` As part of AMD , ATI 's business will continue to operate in a fabless business model and maintain its strong foundry partnership with TSMC , '' the company said in an e-mailed statement .
+The company said it had held discussions with ATI , without providing details .
+The merger , meanwhile , is also expected to create an impact on Taiwan 's chipset manufacturers .
+Via , a manufacturer of AMD-based chipsets , yesterday saw its shares drop NT $ 0.65 to close at NT $ 24.05 .
+Altogether the TAIEX rose 31.36 points yesterday to close at 6,390.99 .
