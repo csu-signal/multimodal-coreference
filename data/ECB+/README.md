@@ -1,7 +1,7 @@
 # ECB+ Image Annotations
 
 ## Annotation Process
-For each ECB+ document (all of which have associated URLs), the associated URL was visited. If the link produced an error, redirected to a home page or other article, or domain name was no longer valid, the [web.archive.org](web.archive.org) was checked for an archived copy of the page. Likewise, if a functional page had embedded images that were no longer hosted, the image URLs were checked against the Internet Archive.
+For each ECB+ document (all of which have associated URLs), the associated URL was visited. If the link produced an error, redirected to a home page or other article, or domain name was no longer valid, [web.archive.org](web.archive.org) was checked for an archived copy of the page. Likewise, if a functional page had embedded images that were no longer hosted, the image URLs were checked against the Internet Archive.
 None of the ECB documents had associated URLs, and so were attempted to be located by a combination of broad and exact match Google searches of the document contents.
 
 ## File Structure
