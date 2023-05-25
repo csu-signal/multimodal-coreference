@@ -1,0 +1,12 @@
+http : / / krebsonsecurity . com / 2013 / 09 / microsoft - ie - zero - day - flaw - affects - all - versions /
+Microsoft : IE Zero Day Flaw Affects All Versions
+Microsoft said today that attackers are exploiting a previously unknown , unpatched vulnerability in all supported versions of its Internet Explorer Web browser .
+The company said it is working on an official patch to plug the security hole , but in the meantime it has released a stopgap fix to help protect affected customers .
+Microsoft said it is aware of targeted attacks that attempt to exploit the vulnerability ( CVE - 2013 - 3893 ) in IE 8 and IE 9 versions of the default Windows browser .
+According to an advisory issued today , the flaw is a remote code bug , which means malware or miscreants could use it install malware just by coaxing IE users to browse a hacked or malicious Web site .
+The Fix It solution is available from this link .
+To apply it , click the Fix It icon above the Fix This Problem link .
+Applying this solution may limit some functionalities of IE , so if you run into problems after applying this interim patch , you can click the Fix It icon to the right of that “ enable ” button to reverse the update .
+Update : As several readers have already noted in the comments , this Fix It solution is for 32 - bit versions of IE only .
+In 64 - bit Windows , you can tell whether the browser you ’ re using is a 32 - bit or 64 - bit version by opening the Windows Task Manager ( Ctrl+Shift+Esc ) and clicking the Processes tab .
+The number that appears after the process name ( in this case , iexplore . exe ) indicates the version in use .

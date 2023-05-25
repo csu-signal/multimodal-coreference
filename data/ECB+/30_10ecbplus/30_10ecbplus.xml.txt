@@ -1,0 +1,14 @@
+http : / / mybroadband . co . za / news / broadband / 36092 - seacom - restored - for - commercial - isps - on - alternate - routes . html
+Seacom restored for commercial ISPs on alternate routes
+Seacom's business customers , including commercial Internet Service Providers , have had their services restored via alternative routes , Seacom announced today
+October 14 , 2011
+Subsea cable operator Seacom announced on Twitter today ( 14 October 2011 ) that they have restored all their business customers on alternate routes following an outage expected to extend into next week .
+This includes commercial Internet service providers , according to Seacom's tweet , which said that all such ISPs using Seacom capacity are no longer affected by the outage .
+Seacom started to experience problems on Saturday , 8 October 2011 , which it said was caused by a problem on a cable between Abu Talat in Egypt and Marseilles in France .
+In an official statement from Seacom said that their initial estimates were that it would take 12 days to repair the cable , depending on weather conditions .
+Mweb announced on 12 October 2011 that their services through Seacom were running at full capacity again .
+Cybersmart posted on its website that their Seacom service was restored at 10 : 57 on 11 October 2011 .
+Openweb CEO Keoma Wright said that 99% of their supplier traffic has been restored .
+"We however were not severely affected due to the SAT3 backup in place on all our offerings , " Wright added .
+At the time of writing the websites of Axxess and Afrihost still said that they were experiencing degraded ADSL service .
+Neither ISP provided feedback as to whether their Seacom capacity had been restored .

@@ -1,0 +1,38 @@
+http : / / www . theregister . co . uk / 2012 / 02 / 29 / amd _ buys _ seamicro /
+AMD snaps up server upstart SeaMicro
+Jumpstarting a cloudy server biz with an interconnect
+29th February 2012
+AMD's new CEO Rory Read was fired up about executing better in the server racket at the company's analyst day earlier this month and has wasted little time in stirring things up with the acquisition of low - power server start - up SeaMicro for $334m .
+SeaMicro is the server upstart founded four and a half years ago that came out of stealth in June 2010 with an Atom bomb : a 10U chassis crammed with 512 single - core Atom servers in a 10U chassis , all linked by a 1 . 28Tb / sec 3D torus interconnect implemented on an ASIC that also virtualized all I / O in the cluster of server nodes and provided load balancing across those nodes .
+Over time , SeaMicro has added 64 - bit Atoms , boosted the number of Atom processors and main memory in the system , and only a month ago announced a variant that used single - socket Xeon E3 - 1260L processors to give the SM10000 system some "brawny cores" to do heavier computational tasks .
+The acquisition of SeaMicro will no doubt irk Intel , which has used SeaMicro as a poster child for its microserver and cloud computing efforts in the past two years .
+So there's some public relations fun in that .
+But there isn't much Intel can do about SeaMicro being in AMD's hands .
+In a conference call with Wall Street analysts announcing the deal after the market closed , Andrew Feldman , SeaMicro's CEO and co - founder , said that his company had been buying Atom processors and chipsets from the distribution channel , not from Intel .
+SeaMicro does not anticipate any changes in getting its supply of Atom and Xeon processors or building systems for current and future customers .
+In the call , Read reiterated that AMD was "seizing the inflection point" in the server business .
+The acquisition of SeaMicro , which along with Cisco Systems is one of the first new entrants in the server racket in years to actually look like it has a chance of making it , would "accelerate out transformation into an agile and disruptive innovator . "
+As we can now see , looking at the past month in hindsight , is that AMD figured out that is needed to hunker down on its Opteron processor roadmaps and not force server makers to absorb a socket change in 2012 , as was the original plan , but rather to get an improved "Piledriver" core for Opteron processors into the field this year and do lots of performance tuning to show what "Bulldozer" class of chip can really do .
+The company then looked around and decided that it didn't need a new chip or chipset so much as a whole different set of technologies to sell to its server OEM partners .
+That's where SeaMicro came in .
+Much will be made of AMD entering the server business with the acquisition of SeaMicro .
+But that's not the point , even if it will be technically true over the next months .
+Lisa Su , senior vice president and general manager of the new Global Business Units at AMD , who is tasked with making sure the company has the components from which server makers want to build systems , put the kibosh on that idea .
+"This is a technology play for us , " Su explained , calling the interconnect used at the heart of the SeaMicro system a "unique technology" that would be a "building block" that AMD integrates with its processors and chipsets and then in turn sells to server makers .
+The company will work now to get AMD's Opteron server processors embedded in the SeaMicro machines , which it expected to have accomplished by the second half of this year .
+The company will not divulge what Opteron chips it will weld onto the SeaMicro server boards , but it stands to reason that it would be a low - voltage Opteron 3200 or 4200 part .
+In an interview with El Reg , Mark Papermaster , AMD's CTO , deflected all of the interesting questions about how the SeaMicro 3D torus interconnect might be used , such as extending it beyond one chassis to span multiple chassis under a single management and cluster domain , or maybe adding cache coherence and shared main memory across all or a portion of a SeaMicro server's nodes .
+The acquisition , said Papermaster , "allows us to redefine the server building block , " and he noted that AMD was keen on becoming "an agile SoC company , " referring to system - on - chip designs that put processors and other system elements into a single piece of glass .
+And he confirmed El Reg's sense that AMD was not getting into the server business .
+"You have that exactly right , " said Papermaster .
+When asked about when AMD and SeaMicro started talking , Papermaster would not be specific , except to say that AMD "moved very , very rapidly . "
+This was quite possibly to keep someone else from buying SeaMicro and very certainly in part as a reaction to Intel's purchase of the InfiniBand networking business from QLogic back in January for $125m .
+Papermaster would not comment on rumors that AMD has been taking a look at ARM server chip maker Calxeda , but it could very well turn out that if AMD had tried to do that deal , it might be grateful that it fell through .
+The SeaMicro deal is a much better option if it wants to sell server interconnects and help OEM customers build cloudy servers and maybe even clustered supercomputers based on the SeaMicro "Freedom" fabric , as the latest generation is called .
+That fabric is processor and instruction set agnostic , as Feldman has said many times , and SeaMicro only started out on Atom processors because they gave the best bang for the watt .
+And it could turn out that Calxeda and AMD partner to make ARM servers somewhere down the road .
+Why not ?
+Read wanted to make sure that everyone understood that the SeaMicro acquisition would have no effect on the company's 2012 and 2013 Opteron processor roadmaps and system plans , and that AMD was not leaving the traditional x86 server business .
+"We're in that business to stay , and we're going to grow it and invest in it , " Read said .
+AMD is paying $281m in cash and $53m in stock to acquire privately held SeaMicro , which raised $35m in two rounds of funding and also got $9 . 3m in funding from the US government as part of the $787bn American Recovery and Reinvestment Act ( ARRA ) of 2009 .
+Feldman is staying on at AMD after the acquisition closes and will be general manager of a new Data Center Server Solutions business unit , reporting to Su .

@@ -1,0 +1,1 @@
+New turn-by-turn navigation in iOS 6 is voiced by Siri.

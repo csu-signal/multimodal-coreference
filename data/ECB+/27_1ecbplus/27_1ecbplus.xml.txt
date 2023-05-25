@@ -1,0 +1,17 @@
+http : / / www . bbc . co . uk / news / technology - 24142934
+18 September 2013 Last updated at 13 : 59 GMT
+Microsoft releases fix for 'zero - day' IE browser bug
+Microsoft has released a temporary patch to fix a "zero - day" , or previously unknown , vulnerability in its Internet Explorer ( IE ) web browser .
+The software giant said the bug , which relates to the browser's memory , could affect all versions of IE6 to 10 .
+Attackers could set up websites specifically designed to exploit the vulnerability , Microsoft said , and then run malicious code on users' computers .
+Targeted attacks directed at IE8 and 9 had already been reported , it said .
+"This is a serious vulnerability potentially affecting millions of Windows computers , " Dana Tamir , director at security company Trusteer , told the BBC .
+"Hackers are already exploiting this so I hope Microsoft produces a full patch within a few days , " she said .
+In a blog post , Microsoft's Dustin Childs advised concerned users to set internet and local security zone settings to "high" to block ActiveX controls and active scripting .
+He also recommended changing IE settings to prompt users before running active scripting .
+But doing this "may affect usability" , he said , so users should add sites they trust , and visit often , to the IE trusted sites zone .
+Microsoft's Fix It patch applies only to 32 - bit versions of IE .
+It is not being rolled out automatically and is not intended to be a replacement for scheduled security updates , the company said .
+"This temporary workaround is like applying a Band - Aid to a wound , " said Ms Tamir .
+Last week , Microsoft admitted that it had been forced to rewrite four of its security updates just three days after they had been issued .
+Customers had reported receiving repeated demands to install the updates even after they had already done so .

@@ -1,0 +1,14 @@
+Internet Explorer issue 'fixed ' , say Microsoft
+Microsoft has said that an emergency security update has fixed a flaw in Internet Explorer that left millions of computers vulnerable to hacking and hijack .
+The software patch , which was released last night , has closed a loophole that has seen the computers of at least two million users hacked by cyber criminals .
+The problem related to a `` zero day '' flaw that tricked people into visiting an infected website , enabling hackers to gain access to online banking passwords and e-shopping logon details .
+`` Microsoft has released a security update for Internet Explorer that will help protect its customers from malicious attacks , '' said the company in a statement .
+`` Like a vaccine developed to fight a virus , this 'security update ' will protect computers only if it is installed . ''
+Computers that are set to automatically update and install software will already be protected by the patch .
+Those users who manage their own updates are advised to download the fix as soon as possible from the Microsoft website .
+`` When the patch is released , people should run , not walk , to get it installed , '' said Paul Ferguson , a researcher with Trend Micro .
+`` This vulnerability is being actively exploited by cyber criminals and getting worse every day . ''
+It is thought that the security flaw , which came to light earlier this week , was exposed by accident , after a Chinese security firm , Knowsec , released details of the loophole believing Microsoft had already issued a software fix to resolve it .
+However , technology experts have warned that malware authors , who write the viruses and code that exploits security vulnerabilities , are already working on ways to get around the software update .
+`` We are seeing customised versions of the IE 7 exploit with varying degrees of obfuscation , '' wrote McAfee security expert Rahul Mohandas on the company blog .
+`` Malware authors have been coming up with innovative mechanisms to leverage this exploit to social engineer the not so tech-savvy internet users . ''

@@ -1,0 +1,8 @@
+http : / / sites . amd . com / us / promo / stave / Pages / seamicro . aspx
+AMD Announces Strategic Investment to Accelerate Cloud Server Strategy
+On February 29 , 2012 , AMD announced a definitive agreement to acquire SeaMicro , a pioneer in energy - efficient , high - bandwidth microservers .
+By acquiring SeaMicro , AMD is accelerating our disruptive server strategy , taking advantage of an inflection point in the industry driving opportunities in low power , client mobility , emerging markets and the cloud / megadata centers .
+This disruptive move positions AMD to expand our current server offerings and provide our customers with low - power , low - cost , high - bandwidth platforms .
+With SeaMicro , AMD builds upon our processor design and compute expertise with system - level advances in energy efficiency , total cost of ownership and density for customers .
+We are excited to have SeaMicro join AMD .
+The combination of SeaMicro IP with AMD Opteron™ technologies and our focus on execution provide AMD differentiated capabilities to address the evolving needs of the server market .

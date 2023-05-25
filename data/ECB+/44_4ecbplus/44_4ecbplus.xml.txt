@@ -1,0 +1,15 @@
+http : / / www . controleng . com / single - article / hp - acquires - eyp - mission - critical - facilities / 75be7c900488edada025180684d28b6b . html
+HP acquires EYP Mission Critical Facilities
+HP today announced that it has signed a definitive agreement to acquire EYP Mission Critical Facilities Inc . , a consulting company specializing in strategic technology planning , design , and operations support for large - scale data centers .
+11 / 12 / 2007
+HP today announced that it has signed a definitive agreement to acquire EYP Mission Critical Facilities Inc . ( EYP MCF ) , a consulting company specializing in strategic technology planning , design , and operations support for large - scale data centers .
+By acquiring EYP MCF , HP will be better able to help customers to transform their data centers , optimize energy efficiency , and position them for future business growth .
+Headquartered in New York , EYP MCF has approximately 350 employees with 13 offices in the United States and the UK .
+The firm provides mission - critical services to enterprises around the world in business sectors including financial services , telecommunications , technology , broadcast , manufacturing , and healthcare , as well as numerous federal , state , and county government agencies .
+From data centers and command and control centers , to trading floors and supercomputing sites , EYP MCF has designed hundreds of technology - intensive , high - performance facilities where monitoring , operational , and energy efficiencies are top - priority business requirements .
+EYP MCF ’ s capabilities %%MDASSML%% particularly its expertise in energy - efficient operations %%MDASSML%% complement HP ’ s extensive Data Center Services and cost - saving power and cooling solutions , such as Dynamic Smart Cooling .
+“ The data center is the foundation of IT for enterprises , an essential building block for driving business growth and adapting to changing business objectives , ” said John McCain , senior vice president and general manager , HP Services .
+“ Acquiring EYP Mission Critical Facilities boosts HP ’ s ability to help customers transform their data centers and build dynamic computing environments from the ground up . ”
+Peter Gross , chief executive officer of EYP MCF , said , “ Worldwide data center requirements are rapidly growing , with significant year - over - year increases in power consumption , which is fueling demand for energy - efficient power and cooling strategies .
+HP and EYP Mission Critical Facilities will drive innovation by integrating IT infrastructure into the planning and design of the data center , enabling the customer ’ s whole organization to be more energy efficient and adaptive . ”
+The transaction is subject to certain closing conditions and is expected to be completed within HP ’ s first fiscal quarter .

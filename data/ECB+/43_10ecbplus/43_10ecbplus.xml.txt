@@ -1,0 +1,18 @@
+http : / / www . extremetech . com / computing / 120601 - amd - buys - seamicro - starts - selling - intel - based - servers
+AMD buys SeaMicro , starts selling Intel - based servers
+on March 1 , 2012 at 8 : 12 am
+In an unprecedented move that suggests that there might be life in the old dog yet , AMD has acquired SeaMicro , a company that builds high - density , low - power servers using Intel CPUs .
+The deal cost AMD $334 million ( $281M in cash ) , a fairly sizable chunk of change when you consider that its yearly profits are usually around the $400 million mark .
+If you haven ’ t heard of SeaMicro before , they ’ re essentially a Silicon Valley startup built around a technology called Freedom Fabric , an ASIC ( Application - Specific Integrated Circuit ) that allows a computer to be scaled down to a motherboard the size of a deck of playing cards .
+These tiny computers ( each one containing an Atom or Xeon CPU , some DRAM , and the Freedom Fabric ASIC ) are then stacked together to form very - high - density servers ( pictured above ) .
+These server bricks are just 10U in size , contain up to 768 CPUs , and include four gigabit Ethernet switches and a load balancer .
+To achieve the same kind of processing power with conventional rackmount servers you would need two full racks ( 84U ! ) of dual - socket quad - core servers and network gear .
+The SeaMicro server bricks use a quarter of the power , too , because the custom CPU - DRAM - ASICs contain absolutely no hardware cruft that leeches power .
+In short , with energy prices increasing , data center real estate as costly as ever , and the web showing no signs of slowing down , SeaMicro servers are really rather desirable .
+More than miniaturization , though , Freedom Fabric is also compatible with multiple instruction sets and allows for complete hardware virtualization ; both very desirable properties in this age of cloud computing .
+But why did AMD buy SeaMicro ?
+As it stands , SeaMicro has a tight partnership with Intel , and every SeaMicro server uses Intel chips .
+According to AMD , SeaMicro will sell Intel - based servers “ for the foreseeable future , ” but an Opteron - based solution should arrive by the end of the year .
+In all likelihood , AMD probably sees SeaMicro as an excellent way of bolstering its presence in the incredibly lucrative ( and rapidly expanding ) server market .
+With SeaMicro , AMD can deal directly with companies looking for servers , cutting out the ( very profitable ) HP , Dell , or IBM middle man .
+The server space is one area that AMD still seems to be able compete with Intel and with Freedom Fabric AMD might once again become a compelling choice .

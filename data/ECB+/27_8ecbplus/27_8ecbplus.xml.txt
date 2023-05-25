@@ -1,0 +1,11 @@
+http : / / www . neowin . net / news / microsoft - rushes - out - security - patch - for - internet - explorer
+Microsoft rushes out security patch for Internet Explorer
+17 September 2013 - 21 : 29
+Normally , Microsoft releases security bulletins for software products on the second Tuesday of each month .
+That happened last week as scheduled , but today the company announced it has rushed out an additional patch designed to fix an exploit that has been found in Internet Explorer , and is being used in attacks on IE8 and IE9 .
+In a post on its security response blog , Microsoft says the issue would allow a hacker to launch a remote code execution if a person surfs to a website using IE that contains malicious code .
+The blog adds , "There are only reports of a limited number of targeted attacks specifically directed at Internet Explorer 8 and 9 , although the issue could potentially affect all supported versions . "
+The company has released a "Fix - it" patch , "CVE - 2013 - 3893 MSHTML Shim Workaround" to plug this security hole in all currently supported versions of IE .
+In addition , Microsoft recommends that users set their security settings on the web browser to "High" to block any ActiveX Controls and Active Scripting on websites .
+It also recommends users set up IE so that it informs them ahead of time before running any Active Scripting features .
+The company plans to release a full security patch that will be a more complete solution to this problem in the near future .

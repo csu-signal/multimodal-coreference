@@ -1,0 +1,16 @@
+Microsoft issues emergency IE patch as attacks escalate
+Microsoft has issued a rare emergency update for its Internet Explorer browser as miscreants stepped up attacks targeting a vulnerability on hundreds of thousands of webpages .
+In many cases , the websites distributing the toxic payload are legitimate destinations that have been commandeered , allowing an attacker to snare victims as they surf to online banks , forums , and other trusted sites .
+There are at least six distinct versions of attack code circulating in the wild , according to researchers at iDefense , a security lab owned by VeriSign .
+A web search showed 233,000 pages containing the string ardoshanghai.com/s.js , just one of many web addresses exploiting a weakness in the way IE 's data-binding function works .
+Most of the attacks silently install keylogging software as soon as a victim surfs to a site carrying the exploit .
+Once installed , the software steals login credentials for online games .
+Attack strings in separate SQL injections include 17gamo.com/1.js .
+Researchers say the number of attack sites is too high to keep exhaustive lists , but Shadowserver is doing an admirable job here .
+`` The vulnerability is so juicy that we expect it to show up in tool kits fairly shortly , '' said Rick Howard , intelligence director of iDefense .
+The patch was released eight days after reports began circulating that websites were targeting a vulnerability in fully patched versions of IE .
+This is only the second time in 18 months that Microsoft has issued an unscheduled update .
+Typically , patches are available on the second Tuesday of each month to allow system administrators time for planning .
+Given the prevalence of attacks , there 's no good reason why anyone running a Windows machine should n't stop what they 're doing and install the patch immediately ( those with administrative rights , anyway ) - doing so is as easy as opening IE and selecting Windows Update from the Tools menu .
+The patch can also be downloaded directly here .
+Howard mentioned the site of `` a major financial institution '' that he found hosting the exploit , so do n't think you 're immune just because you steer clear of porn and warez .

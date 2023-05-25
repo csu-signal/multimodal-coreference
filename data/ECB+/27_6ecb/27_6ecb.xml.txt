@@ -1,0 +1,10 @@
+Microsoft Patches Major IE Bug
+In record time , Microsoft released today an `` out of band '' patch for a significant security flaw in Internet Explorer that burst onto the scene 8 days ago .
+We strongly recommend that all Windows users , especially Windows XP and Windows 2000 users , apply the patch as soon as possible .
+It is available on Windows Update and through Automatic Updates and by direct download through the security advisory for the vulnerability .
+Here is the description of the vulnerability that it presents:
+A remote code execution vulnerability exists as an invalid pointer reference in the data binding function of Internet Explorer .
+When data binding is enabled ( which is the default state ) , it is possible under certain conditions for an object to be released without updating the array length , leaving the potential to access the deleted object 's memory space .
+This can cause Internet Explorer to exit unexpectedly , in a state that is exploitable .
+That 's not quite enough to help you to write an exploit , but it 's a lot more detail than they usually release .
+Once again , run , do n't walk , to your vulnerable PCs and apply these updates .

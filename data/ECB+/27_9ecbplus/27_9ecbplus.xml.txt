@@ -1,0 +1,24 @@
+http : / / www . pcworld . com / article / 2048912 / microsoft - rushes - urgent - fix - for - internet - explorer . html
+Microsoft rushes urgent fix for Internet Explorer
+It ’ s not Patch Tuesday , but Microsoft has released a crucial update for Internet Explorer that you should apply immediately .
+Microsoft included a cumulative update for Internet Explorer in the 13 security bulletins that made up Patch Tuesday last week , and that update was considered Critical as well .
+Since then , though , a new flaw has been targeted by attacks in the wild , so Microsoft has responded with an out - of - band update .
+Apply the urgent Fix - It solution from Microsoft to protect Internet Explorer from exploits .
+The update from Microsoft is a Fix - It tool , which is more of a stop - gap bandage than an actual patch .
+Applying the Fix - It will protect Internet Explorer and prevent the currently circulating exploit from working on your systems .
+Paul Henry , security and forensic analyst with Lumension , says that there are number of mitigating factors that limit the potential scope of this threat , but those factors may offer little consolation for many users .
+“ The bad news is that this is a very wide - reaching patch , affecting all versions of IE across all operating systems , from XP to RT , " he says .
+"And more bad news : the average user is very susceptible to being hit with this . ”
+Microsoft claims that running Internet Explorer in Enhanced Security Configuration mode prevents this attack .
+Internet Explorer runs in this restricted mode by default on Windows Server 2008 , Windows Server 2008 R2 , Windows Server 2012 , and Windows Server 2012 R2 .
+Microsoft states that all supported versions of Outlook , Outlook Express , and Windows Mail include protection by default as well .
+HTML email messages are opened by default in the Restricted Sites security zone , which disables scripts and ActiveX controls necessary for the exploit to execute .
+However , Microsoft cautions that the protection in Outlook only applies to the HTML message within Outlook itself .
+If a user receives an email with a link and clicks on it , they ’ re still potentially vulnerable because the threat is now Web - based and functioning outside of Outlook .
+“ The average user does not run the restricted sites mode , are not using the Enhanced Security Configuration and are all - too - willing to click on phishing emails , " Henry explains , "I recommend employing the mitigating factors , as well as advising users about this so they will be less likely to click malicious links until you can apply the patch .
+It ’ s been a while since we ’ ve seen an out - of - band patch for IE from Microsoft , but it ’ s still important to apply it as soon as possible . ”
+“ It's important to reiterate that ALL versions of IE are affected including the Internet Explorer 11 preview , Tyler Reguly , technical manager of security research and development for Tripwire , says .
+"Since attacks are occurring now , this is a situation where it's in everyone's best interest for Microsoft to release a patch as soon as possible .
+In the meantime , install the shim that they've released . ”
+He adds , “ For less technical users that aren't comfortable with Microsoft Fix it solutions , using another browser until a patch is available is the best option , ”
+A couple additional notes : The Fix - It solution only works with 32 - bit versions of Internet Explorer , and you must first apply the cumulative update for Internet Explorer from last week ’ s Patch Tuesday ( MS13 - 069 ) .

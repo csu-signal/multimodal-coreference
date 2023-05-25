@@ -1,0 +1,35 @@
+Critical IE patch now available : go get it !
+In Thursday 's IT Blogwatch , Richi Jennings watches bloggers watch Microsoft 's latest out-of-cycle , critical patch for Internet Explorer .
+Not to mention portability , 1980 's style ...
+As it promised [ Tuesday ] , Microsoft Corp. today issued an emergency patch to plug a critical hole in Internet Explorer ( IE ) that attackers have been increasingly exploiting from hacked Web sites .
+The patch , described in Microsoft 's security bulletin MS08-078 , fixes a flaw in the data-binding function of all available versions of the popular browser , including IE5.01 , IE6 , IE7 and IE8 Beta 2 .
+Microsoft labeled the bug as `` critical , '' the most serious threat ranking in its four-step scoring system .
+According to both Microsoft and numerous security firms , attacks have been mounting , particularly since last weekend , when hackers began hijacking legitimate Web sites and launching exploits against unwary visitors .
+In fact , Microsoft said it monitored a `` huge increase '' in attacks last Saturday .
+The number of infected Web sites , many of them legitimate , has grown at `` an alarming '' rate since the vulnerability was released into the wild and people need to do nothing but visit an infected site with a vulnerable browser to be affected .
+By Friday , Microsoft was aware users were becoming infected at a rate even faster than previous zero-day exploits .
+Originally porn sites seemed to be the carriers , but the number of legit sites causing infections was skyrocketing .
+Hackers were planting the exploit using well-known SQL injection techniques .
+It is users ' turn to protect themselves by installing this emergency patch and all all the others , and fast .
+Since the bad guys were exploiting it before Microsoft knew it existed , the exploit is termed `` zero day '' because that is how much notice Microsoft got of the problem .
+It is also termed an `` drive-by '' exploit since a user could pick up a malware infestation by merely using IE to browse any of thousands of compromised websites .
+In short , it was really nasty stuff .
+Brian Krebs sounds worried:
+Microsoft estimated Monday that one in every 500 Windows users had been exposed to sites that try to exploit the flaw .
+Additionally , it said the number of victims was increasing at a rate of 50 percent daily .
+This is an urgent update .
+If you use Windows , apply this patch now .
+Microsoft 's Mike Reavey grabs the mic:
+This update will be applied automatically to hundreds of millions of customers through automatic updates over the next few days .
+And , for our enterprise customers - with multiple systems within their networks - this update can be deployed through all standard security update management systems including , SCCM , SMS , WSUS , and Windows Update
+This update meets the quality , deployment and application compatibility criteria .
+It is a high-quality update , ready for broad release , and we encourage customers to test and deploy this update as quickly as possible .
+We were able to share detailed information with our partners in the Microsoft Active Protections Program ( MAPP ) and Microsoft Security Response Alliance ( MSRA ) , allowing protections to be created for over 24 different security partners ' products .
+This is further validation of our commitment to 'community based defense ' and means customers that ... were n't even using Microsoft products , were also protected from known attacks .
+Ed Oswald is impressed by Microsoft 's speed:
+Well , that was quick .
+It 's pretty bad when security experts are telling your customers to switch .
+These are unbiased ( for the most part ) folks , and the typical computer user is going to take their advice seriously .
+But Tiny Dancer ... well , not so much:
+Eight days is rather shamefully long to have to wait for a potentially devastating vulnerability to be fixed .
+This ai n't Hanukkah , Microsoft , and you ai n't no Maccabee .

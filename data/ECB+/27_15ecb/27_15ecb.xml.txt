@@ -1,0 +1,5 @@
+Microsoft releases patch for critical IE security flaw
+Microsoft released a critical security patch on Wednesday to plug vulnerabilities in Internet Explorer , a move that comes amid malicious attackers taking advantage of the security flaws .
+The patch is designed to prevent attackers from downloading malware onto users ' computers if they visit a malicious Web site , or a legitimate Web site that has been infected .
+This zero-day exploit has been in circulation since the first week of December and potentially could have infected a wide swath of users .
+The vulnerabilities are found in not only IE 7 , Microsoft 's latest browser , but also Internet Explorer 5.01 , Internet Explorer 6 , and Internet Explorer 6 Service Pack 1 .

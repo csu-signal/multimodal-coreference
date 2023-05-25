@@ -1,0 +1,32 @@
+http : / / www . pcworld . com / article / 251015 / amd _ buys _ seamicro _ enters _ server _ hardware _ business . html
+AMD Buys SeaMicro , Enters Server Hardware Business
+Feb 29 , 2012 2 : 31 PM
+Advanced Micro Devices announced Wednesday it is buying low - power server vendor SeaMicro , a surprise move that puts AMD in the systems business and disrupts Intel by acquiring one of its close partners .
+AMD will pay US$334 million in cash and stock for SeaMicro , an 80 - employee Silicon Valley startup that has gained attention for building highly dense and power - efficient servers for use in large - scale cloud computing environments .
+SeaMicro CEO Andrew Feldman will become general manager of a new division at AMD , the Data Center Server Solutions group .
+AMD plans to sell SeaMicro - branded servers directly to customers , but it bought the company primarily for its technology , which it hopes to license to other server vendors to build their own low - power systems , AMD officials said .
+"SeaMicro has a proven technology that has been benchmarked in key customer sites to show improvements in power consumption and total cost of ownership .
+That [ intellectual property ] was very attractive to us , " said Lisa Su , senior vice president and general manager for AMD's products division .
+The move will be seen as a setback to Intel , which had built a tight partnership with SeaMicro .
+All the servers SeaMicro currently sells are based on low - power Intel Atom processors , and just a few weeks ago the companies held a joint press conference where Intel sang SeaMicro's praises .
+An Intel spokesman declined to comment on the acquisition Wednesday before it was officially announced .
+AMD will continue to sell SeaMicro servers based on Intel processors "for the foreseeable future , " Lu said .
+By the end of this year , she said , it will release the first SeaMicro servers based on AMD Opteron processors .
+Feldman wouldn't say when SeaMicro and AMD began talks but said the deal came about "unbelievably quickly . "
+He said there were other suitors for the company , including non - chip vendors .
+SeaMicro developed an interconnect technology that allows it to eliminate all but three of the chips on a standard server motherboard .
+That allowed it to develop servers that it claims consume one quarter the power and one sixth the space of standard x86 servers .
+Its products are geared primarily towards high volume , Web - based transaction workloads that don't require the computing muscle of a traditional Xeon or Opteron server processor .
+Mozilla uses SeaMicro servers , for instance , to deliver software updates to users .
+It's not clear which AMD processor SeaMicro will use as an alternative to Intel's Atom chip , though AMD has several low - power offerings and plans to release a new , low - power chip for tablets , code named Hondo , later this year .
+However , SeaMicro has said its technology can also benefit servers based on more powerful processors .
+A server based on an Opteron chip would be efficient for running MySQL and MondoDB database workloads , Feldman said , as well as PHP applications used by many online services .
+It could also be used to build efficient supercomputers , he said .
+It's a new direction for AMD , one it hopes will allow it to expand its server business and capitalize on the fast - growing cloud computing market .
+Spending on servers for such "scale out data centers" is expected to grow 33 percent a year on average for the next several years , AMD said , faster than the server market as a whole .
+The move puts AMD in the difficult position of competing with some of its customers , though Lu insisted that will not be a problem .
+The scale of SeaMicro's business today is much smaller than that of a Hewlett - Packard or a Dell , she said , and AMD thinks the value of SeaMicro's technology to server vendors will outweigh their competitive concerns .
+AMD's server business could use a lift , noted Dean McCarron , principal analyst at Mercury Research .
+"They are obviously experiencing a decline and this would be a way to expand the market for their processors , " he said .
+AMD is paying $281 million in cash for SeaMicro and the remainder in stock , Lu said .
+It expects to close the deal in March .

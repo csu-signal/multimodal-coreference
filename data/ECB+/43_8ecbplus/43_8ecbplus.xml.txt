@@ -1,0 +1,28 @@
+http : / / www . zdnet . com / blog / forrester / amd - acquires - seamicro - big - bet - on - architectural - shift - for - servers / 832
+AMD Acquires SeaMicro – Big Bet on Architectural Shift for Servers
+Summary : Rich Fichera looks at the risks and potential rewards of AMD's recent acquisition of innovative server startup SeaMicro .
+March 1 , 2012 - - 07 : 58 GMT ( 23 : 58 PST )
+At its recent financial analyst day , AMD indicated that intended to differentiate itself by creating products that were advantaged in niche markets , with specific mention , among other segments , of servers , and to generally shake up the trench warfare that has had it on the losing side of its lifelong battle with Intel ( my interpretation , not AMD management ’ s words ) .
+Today , at least for the server side of the business they made a move that can potentially offer them visibility and differentiation by acquiring innovative server startup SeaMicro .
+SeaMicro has attracted our attention since its appearance ( blog post 1 , blog post 2 ) , with its innovative architecture that dramatically reduces power and improves density by sharing components like I / O adapters , disks and even BIOS over a proprietary fabric .
+The irony here is that SeaMicro came to market with a tight alignment with Intel , who at one pint even introduced a special dual - core packaging of their Atom CPU to allow SeaMicro improve its density and power efficiency .
+Most recently SeaMicro and Intel announced a new model which featured Xeon CPUs to address the more mainstream segments that were not a for SeaMicro ’ s original Atom - based offering .
+So what does AMD hope to gain from this acquisition ?
+The strategic goal is a differentiated server architecture into which they can insert AMD silicon and IP .
+The SeaMicro architecture shares many of the characteristics of the Calxeda / HP Redstone architecture , and can potentially allow AMD to produce reference architecture for its system partners to leverage that gives them significant density advantages over any conventional x86 server offering .
+Since this architecture is initially targeted at dense computing environments such as those found in Web 2 . 0 , cloud service providers and similar workloads , as well as potentially at conventional HPC , the prospects for AMD are interesting .
+Long - term success will hinge on several interlocking factors :
+1 . How much will AMD focus this offering on the ultra - dense space that SeaMicro started addressing versus trying to also take a bite out of the enterprise space ?
+2 . How aggressively will they scale it ?
+The SeaMicro fabric does not extend beyond the single enclosure boundary , but that appears to be an implementation decision , not a fundamental architectural issue .
+My personal belief is that fabric - based servers are the wave of the future , with SeaMicro Calxeda / HP serving as very significant guidelines for future development .
+Scaling the fabric first for management and then for actual data traffic for shared I / O and eventually for coherent memory operations if needed is a natural progression .
+3 . What other IP will AMD add ?
+AMD has an interesting portfolio of GPU technology as well as CPU , and the incorporation of GPU technology could provide further differentiation in niche markets .
+AMD has a choice of ways to monetize this IP , from selling systems based on its own processors ( possibly as early as late this year ) to providing reference designs and / or licensing the architecture or selling components like the fabric ASICs .
+4 . Will they also support ARM processors ?
+If AMD becomes the source of licensed IP for vendors wanting to chase HP in ultra - dense servers , they can also make money by licensing their technology and selling components for non - x86 architectures .
+5 . What will Intel do ?
+At least one of Intel ’ s partners , HP , already has a fabric - based dense server design that can support x86 .
+Will Intel develop a similar reference architecture in the hopes that their major systems partners will adopt it ?
+All in all , many ways this could play out , but a bold move and one that may serve to trigger a rapid change in the types of servers available to users over the next 24 months .

@@ -1,0 +1,26 @@
+Microsoft issues patch to fix IE
+Microsoft has issued a security patch to fix a critical vulnerability in its Internet Explorer browser which it said has attacked over 2m Windows users .
+The flaw is believed to have already infected as many as 10,000 websites .
+The `` zero day '' exploit let criminals take over victims ' computers by steering them to infected websites .
+Microsoft 's Christopher Budd said the software giant `` encourages all IE customers to test and deploy this update as soon as possible '' .
+He also said the threat led Microsoft to mobilise security engineering teams worldwide to deliver a software cure `` in the unprecedented time of eight days '' .
+The company 's security response team said the patch consists of more than 300 distinct updates for more than half-a-dozen versions of IE in around 50 languages .
+`` Even with that , the release Emergency Response process is n't over , '' said Security Response Alliance director Mike Reavey .
+`` There is additional support to customers and additional refinement of our product development efforts . ''
+Microsoft stressed that the flaw was proven to exist only in IE 7 on all applicable versions of Windows , but that IE 6 and the `` beta '' release of IE 8 were `` potentially vulnerable '' .
+Users who have automatic updates turned on will receive the patch over the next 24 hours while others can access it via a download .
+The AZN Trojan has been making the rounds since the beginning of December but became public knowledge in the last week .
+Unlike other exploits , users only have to visit a malicious site with Trojans or other malware in order to become contaminated .
+Once an infected web page is opened , malicious downloaders are installed on the computer designed to record keystrokes and steal passwords , credit card details and other financial information .
+The sites affected are mostly Chinese and have been serving up programmes to steal passwords for computer games which can then be sold for cash on the black market .
+Internet Explorer is the world 's most widely used web browser with nearly three quarters of the market share .
+Microsoft estimated that one in every 500 Windows users had been exposed to sites that tried to exploit the flaw and the number of victims was increasing at a rate of 50 % daily .
+Researchers at the software security firm Trend Micro said attacks were spreading `` like wildfire '' .
+`` This vulnerability is being actively exploited by cyber-criminals and getting worse every day , '' said the company 's advanced threat researcher Paul Ferguson .
+Microsoft labelled the bug as `` critical , '' the most serious threat ranking in its four-step scoring programme .
+The update is something of an unusual move for Microsoft and underscores the seriousness of the zero day flaw .
+The company rarely issues security fixes for its software outside of its regular monthly patch updates .
+Meanwhile Mozilla has released a scheduled update for its open source Firefox web browsers for at least 10 different vulnerabilities .
+The bugs in the browser could have been `` used to run attacker code and install software , requiring no user interaction beyond normal browsing , '' said Mozilla .
+It is also reissuing calls for users to upgrade from Firefox 2.0 to Firefox 3.0 as soon as possible and said it is `` not planning any further security and stability updates for Firefox 2 '' .
+This means Mozilla will no longer support the Firefox 2 browser against future online scams and attacks .

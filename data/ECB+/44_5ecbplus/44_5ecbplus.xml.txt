@@ -1,0 +1,18 @@
+http : / / www . informationweek . com / hp - to - acquire - data - center - cooling - energy / 202805320
+HP To Acquire Data Center Cooling , Energy Specialist EYP
+November 12 , 2007 03 : 57 PM
+Hewlett - Packard on Monday said it has agreed to buy EYP Mission Critical Facilities , a consulting company that specializes in data center cooling and energy efficiency .
+Financial terms were not disclosed .
+The acquisition , expected to close by the end of January , would provide HP with proprietary services and technology related to one of the hottest issues today in data center planning and design .
+Because EYP services start at the ground level of data - center design , the company would give HP an early entry with its cooling technology and energy - efficient storage products .
+EYP , based in New York , has 350 employees spread through 13 offices in the United States and the United Kingdom .
+Most of its operations , employees , and management team would be folded into HP .
+EYP is led by chairman Steven Einhorn and chief executive Peter Gross .
+The need for more storage is growing as companies expand their businesses and strive to meet legal and regulatory requirements for handling electronic documents .
+Additional storage , however , also can increase energy consumption to run and cool more powerful servers .
+EYP's proprietary products and services include EnerOpt , a software - based process to assess and benchmark energy efficiency ; a cooling design concept called Cool Design ; and a direct current powered facility design called DC2 .
+"Acquiring EYP Mission Critical Facilities boosts HP's ability to help customers transform their data centers and build dynamic computing environments from the ground up , " John McCain , senior VP and general manager for HP Services , said in a statement .
+Industries in which EYP has customers include financial services , technology , telecommunications , broadcast , manufacturing , and health care .
+The company also serves federal , state and local government agencies .
+Besides the EYP deal , HP has made other data center - related acquisitions this year .
+The largest was the $1 . 6 billion purchase of Opsware , a maker of data center automation software ; and the $214 million buy of Neoware , a maker of hardware and software for thin - client desktop systems .

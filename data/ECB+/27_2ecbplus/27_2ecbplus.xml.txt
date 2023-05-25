@@ -1,0 +1,14 @@
+http : / / www . bit - tech . net / news / bits / 2013 / 09 / 18 / ms - ie - patch / 1
+Microsoft releases out - of - cycle patch for IE flaw
+Published on 18th September 2013
+Microsoft's bad September continues to grow worse , with the company being forced to issue an out - of - cycle patch for a zero - day vulnerability in its Internet Explorer web browser .
+Microsoft's September got off to a bad start when the company issued a raft of faulty updates as part of its monthly Patch Tuesday release cycle .
+While the issues have now been resolved , the company was forced to remove and re - release a total of ten patches - making it the worst Patch Tuesday in a six - month run that has seen only a single month go by without a show - stopping fault resulting in patches being reissued following customer complaints .
+Today's admission from the company isn't going to do much to salve its public image , either : Microsoft has confirmed that a flaw in its Internet Explorer web browser is being actively exploited in targeted attacks , and considers the issue serious enough to release an out - of - cycle fix ahead of next month's Patch Tuesday .
+The update , which is only available for manual installation and will not be published through Windows Update , is a work - around rather than a true fix for a pretty serious flaw in Microsoft's MSHTML Shim component - which had already been targeted in prior attacks at the start of the year .
+'This issue could allow remote code execution if an affected system browses to a website containing malicious content directed towards the specific browser type , ' explained Microsoft's Dustin Childs in an alert to the security community .
+'This would typically occur when an attacker compromises the security of trusted websites regularly frequented , or convinces someone to click on a link in an email or instant message .
+Running modern versions of Internet Explorer ensures that customers receive the benefit of additional security features that can help prevent successful attacks , ' he added - but while the current targeted attacks are only being pointed at the outdated Internet Explorer 8 and Internet Explorer 9 releases , it is thought the flaw could exist across all versions of IE .
+For those who use Internet Explorer , Microsoft's advice is to install the out - of - cycle Fix - It patch to work around the issue until a proper solution can be found .
+The patch applies to all version of Internet Explorer from IE 6 through to the latest IE 11 , although is only designed to resolve the issue with the 32 - bit version - the 64 - bit version , it would seem , being better protected against the vulnerability .
+With Microsoft's recent track record for patches causing problems worse than they solve , however , users would be well advised to test the patch on a virtual machine or similar throw - away system before rolling it out on a wider scale .

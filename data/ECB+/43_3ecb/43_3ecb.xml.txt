@@ -1,0 +1,37 @@
+ATI a potent weapon for AMD in clash with Intel
+The pitched battle for supremacy in the chip-making market reached a critical phase yesterday with Advanced Micro Devices ( AMD ) in Sunnyvale , Calif . announcing its decision to acquire Canadian graphic cards manufacturer ATI Technologies ( ATI ) .
+The imminent purchase of ATI , analysts say , is the most vital element in AMD 's concerted campaign to dethrone the mighty Intel Corp .
+AMD agreed to buy Markham , Ont-based ATI for around $ 5.4 billion in cash and stock , the companies announced Monday .
+The acquisition , which is subject to shareholder and regulatory approvals , would turn AMD into one of the world 's largest providers of graphics chips .
+`` You wo n't see it tomorrow , but the merger will potentially put AMD on a more equal footing with Intel , '' said Michelle Warren , an analyst with Evans Research in Toronto .
+Another Canadian analyst noted that the merger was likely to bring significant benefits to both companies .
+AMD would round out its graphics processing unit portfolio , said Eddie Chan , lead analyst , mobile and personal computing at research firm IDC Canada in Toronto. ATI , he said , also blends in well AMD 's LIVE ! convergence platform .
+`` ATI has a strong product portfolio that covers components for such offerings as mobile phones , wireless products , digital TV , and high definition TV . ''
+On the flip side , AMD allows ATI to hitch a ride on the integrated chip bandwagon .
+Discrete graphics components have been suffering over the years as the market moves on to integrated chips such as those sold by Intel , said Chan .
+`` A tie-up with AMD allows ATI to move towards integrated solutions or the so-called system-on-a-chip platform . ''
+The marketing message from ATI executives too is all about the 'mutual benefits ' of the proposed acquisition .
+Adrian Hartog , senior vice-president for consumer products at ATI , characterized the alliance as a growth opportunity for both companies .
+It is generally expected that the merged company will harness ATI 's strong R and D track record .
+In a list released late last year of Canada 's top 10 R and D spenders , ATI Technologies was in position 5 .
+The company spent $ 389.1 million in R and D in 2004 , an increase of 18.3 percent .
+The list was released by Toronto consulting firm Research Infosource .
+The ATI research team has a proven capacity to turn major new products out every 12 to 18 months .
+`` Bringing these two companies together will allow us to transcend what we have accomplished as individual businesses , '' said Hector Ruiz , chairman and chief executive officer ( CEO ) of AMD in a statement .
+`` All of our product lines will benefit . ''
+Earlier , AMD revealed plans to build a highly efficient dual-core notebook processor , set for release in the second half of 2007 .
+AMD enjoys considerable strength in the server and consumer computing industry while ATI is considered a leader in the computer gaming arena .
+Warren said recent years have seen these disparate markets move closer to each other .
+For instance , ATI 's Shader Model 3.0 , which allows more complex shading and more realistic image rendering , is finding traction in the enterprise space with companies that are heavy computer-aided drafting ( CAD ) users , including customers in the automotive , aerospace and animation spaces .
+Hartog said the purchase of ATI by AMD will involve ' some changes ' but he downplayed any potential lay-offs from among the company 's more than 3,000 employees .
+`` Ontario has one of our largest R and D teams and that arrangement will continue .
+We are not anticipating any immediate lay-offs , '' Hartog said .
+Any acquisition raises the issue of employment stability , said Warren , but AMD would be wise to allow ATI to continue operating as it does .
+`` There is a strong chance ATI will be given a measure of autonomy because it has great strength in its area . ''
+Warren said the alliance also `` steps up '' ATI 's competition with rival Nvidia of Santa Clara , Calif. Apart from ATI , AMD also turns to Nvidia for graphics components .
+`` Depending on the contract , it is possible that Nvidia 's access to AMD chips will be limited , '' said Warren .
+If that happens , Evans Research analyst Michelle Warren said , `` it will open the doors for Nvidia to search for new options and possibly talk with Intel .
+However , Hartog said there will be no move to constrain Nvidia 's supply .
+`` Nvidia will continue to be AMD 's partner .
+Both ATI and AMD are committed to open platform systems , '' he said .
+`` In fact that is what differentiates us to our partners and customers . ''

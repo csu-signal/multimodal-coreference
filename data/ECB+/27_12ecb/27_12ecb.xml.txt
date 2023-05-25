@@ -1,0 +1,5 @@
+Microsoft releases emergency patch for IE
+Microsoft has released an emergency patch to fix a software flaw that allows hackers to get into Internet Explorer browsers and take over computers .
+The head of Microsoft 's security response team says all users of Internet Explorer should test and install the update as soon as possible .
+Experts say without the emergency patch , the flaw could allow criminals to take control of computers and steal users ' passwords even when they are not downloading material .
+Microsoft says less than 1 per cent of Australian PC users have been affected by the problem .

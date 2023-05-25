@@ -1,0 +1,9 @@
+http : / / www . hindustantimes . com / technology / PersonalTech - Updates / Microsoft - issues - patch - to - fix - IE - bug / SP - Article1 - 1124299 . aspx
+Microsoft issues patch to fix IE bug
+September 19 , 2013
+Microsoft has reportedly issued a patch to fix a previously unknown vulnerability in its Internet Explorer ( IE ) web browser .
+The software manufacturer said that the bug , related to the browser's memory , could affect all versions of IE6 to 10 as hackers could set up websites to exploit the vulnerability and run malicious code on users' computers .
+According to the BBC , Microsoft's Dustin Childs advised users to set internet and local security zone settings to 'high' to block ActiveX controls and active scripting apart from adding sites they trust to the IE trusted sites zone .
+Microsoft's Fix It patch applies only to 32 - bit versions of IE and is not being rolled out automatically and it is not intended to be a replacement for scheduled security updates .
+Director at security company Trusteer , Dana Tamir said that the patch is a temporary workaround , like applying a Band - Aid to a wound .
+Users have complained that they were repeatedly receiving update installation messages even after they had already done so , the report added .

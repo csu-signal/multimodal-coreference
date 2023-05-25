@@ -1,0 +1,19 @@
+http : / / www . crn . com / news / security / 240161442 / microsoft - rushes - emergency - fix - to - address - internet - explorer - attacks . htm
+Microsoft Rushes Emergency Fix To Address Internet Explorer Attacks
+September 17 , 2013 4 : 16 PM ET
+Microsoft has rushed out a temporary fix to address ongoing attacks targeting an Internet Explorer zero - day vulnerability .
+The software giant said the Fix - It temporary workaround should be effective in preventing a successful attack .
+The company said the vulnerability impacts all currently supported versions of the browser , but attacks have been limited to users of Internet Explorer 8 and Internet Explorer 9 .
+"On completion of this investigation , Microsoft will take the appropriate action to protect our customers , which may include providing a solution through our monthly security update release process , or an out - of - cycle security update , depending on customer needs , " the company said in a security advisory issued Tuesday .
+"In addition , we are actively working with partners to monitor the threat landscape and take action against malicious sites that attempt to exploit this vulnerability . "
+The fact that Microsoft is rushing out a patch so quickly indicates the threat is serious , said Paul Henry , security and forensic analyst at Lumension .
+Cybercriminals can set up drive - by attack campaigns or lure victims to a website hosting malware that targets the coding error .
+"This seems to be perfectly positioned for drive - by malware using compromised websites , " Henry told CRN .
+"Since these are targeted attacks , someone is restricting use of it ; they don't want information about this out in the wild because they want to be able to profit from it or use it in nation - state attacks . "
+The attack is very targeted and limited to Japan , according to Wolfgang Kandek , chief technology officer of Qualys .
+"It might not affect you at the moment .
+But with the publication of the shim , other attackers can now analyze the condition fixed and will be able to produce an equivalent exploit fairly quickly , " Kandek wrote in a blog post about the issue .
+"We suggest applying the Fix - It as soon as possible if you use IE to access the Internet . "
+The flaw stems from an error in the way the browser accesses an object in memory that has been deleted or has not been properly allocated .
+The coding error results in memory corruption , giving an attacker the ability to execute code in the context of the current user within Internet Explorer , Microsoft said .
+As part of its September 2013 Patch Tuesday updates , Microsoft repaired 47 vulnerabilities , including 10 critical flaws in Internet Explorer .

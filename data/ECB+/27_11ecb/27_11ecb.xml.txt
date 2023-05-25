@@ -1,0 +1,26 @@
+Microsoft releases emergency patch for IE
+Microsoft on Wednesday released an emergency patch to fix a perilous software flaw allowing hackers to hijack Internet Explorer browsers and take over computers .
+The US software giant said security update MS08-078 addresses a vulnerability cyber-criminals can exploit to their advantage .
+`` Microsoft encourages all IE customers to test and deploy this update as soon as possible , '' said Microsoft security response communications head Christopher Budd .
+The threat led Microsoft to mobilize security engineering teams worldwide to deliver a software cure `` in the unprecedented time of eight days . ''
+According to researchers at software security firm Trend Micro , attacks based on the vulnerability in the world 's most popular Web browser were spreading `` like wildfire '' with millions of computers already compromised .
+Microsoft typically releases patches for its software on the second Tuesday of each month and rushing this fix to computer users out-of-cycle is testimony to the severe danger of the threat , according to Trend Micro .
+`` People should run , not walk , to get it installed , '' said Trend Micro advanced threat researcher Paul Ferguson .
+`` This vulnerability is being actively exploited by cyber-criminals and getting worse every day . ''
+The IE software patch will be automatically applied to hundreds of millions of personal computers due to standard update settings in the machines , according to Microsoft Security Response Alliance director Mike Reavey .
+Wednesday morning , business networks using IE began getting the critical fix through routine patching processes .
+Reavey said Microsoft went into `` emergency response '' mode on December 9 after it first learned of the attacks on IE browsers .
+A day later , Microsoft published a security advisory that `` listed workarounds that blocked all known attacks . ''
+`` Over the course of the next eight days , this advisory was updated five times , adding newer workarounds and mitigations , '' Reavey said .
+`` We also continually monitored the threat environment , noting when the attacks began to change in nature and scope . ''
+Trend Micro has identified about 10,000 websites that have been infected with malicious software that can be surreptitiously slipped into visitors ' unprotected IE browsers to take advantage of the flaw .
+A major Internet portal in Taiwan is among the legitimate websites unknowingly tainted with malicious software aimed at IE 's weak spot , according to Ferguson .
+Hackers can take control of infected computers , steal data , redirect browsers to dubious websites , and use machines for devious activities such as attacks on other networks , according to security specialists .
+`` What makes this so insidious is it takes advantage of a big gaping hole of IE , which has the largest install base of any browser on the market , '' Ferguson said .
+IE is used on nearly three-quarters of the world 's computers , according to industry statistics from November .
+Reavey said the patch consists of more than 300 distinct updates for more than half-a-dozen versions of IE in scores of languages .
+Analyst Rob Enderle of Enderle Group in Silicon Valley said it was `` amazing '' that Microsoft was able to turn out a complex critical fix in a week when such jobs typically can take a month or longer of intense work .
+`` Even with that , the release Emergency Response process is n't over , '' Reavey said .
+`` There is additional support to customers and additional refinement of our product development efforts . ''
+Trend Micro urges IE users to heed precautionary advice from Microsoft , or avoid using the browsers , until the patches are applied .
+The `` exploit '' is similar to one used recently to steal user names , passwords and other information from people playing online games in China , according to Trend Micro .

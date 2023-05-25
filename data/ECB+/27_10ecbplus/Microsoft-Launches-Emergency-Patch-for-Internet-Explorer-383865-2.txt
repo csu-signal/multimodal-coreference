@@ -1,0 +1,1 @@
+IE11 is also affected by the flaw

@@ -1,0 +1,37 @@
+http : / / online . wsj . com / article / SB10001424052970203986604577253501384154044 . html
+February 29 , 2012 , 7 : 32 p . m . ET
+AMD to Acquire Server Start - Up
+Advanced Micro Devices Inc . , AMD +0 . 26% vowing to change the game in its longtime competition with Intel Corp . , INTC +0 . 93% has forged a deal to buy a Silicon Valley start - up that takes the chip maker into the server business .
+The Sunnyvale , Calif . , company said it will pay $334 million for SeaMicro Inc . , a company known for products called micro servers that pack together many chips in ways that save space and energy .
+Such products are particularly popular among companies that buy servers in huge volumes to run popular consumer websites .
+AMD has long battled Intel in making chips for servers , as well as PCs , but it has struggled lately in the larger systems because of late products and other issues .
+Both companies , meanwhile , face increasing competition from companies making lower - power chips that are based on architecture developed by ARM Holdings PLC .
+Last year , Hewlett - Packard Co . announced a partnership with Calxeda Inc . , a start - up making ARM - based micro servers .
+Most chip makers avoid selling systems that use their chips , because such moves can put them in competition with their customers .
+But Rory Read , a former Lenovo Group Ltd . executive who became AMD chief executive in August , has stressed the need for unconventional tactics against its much - larger rival .
+In a briefing Wednesday , AMD executives stressed that the main motivation of buying SeaMicro was not to sell servers but to offer communications technology and other elements developed by SeaMicro to allow other server makers to make similar products .
+"We are not intending to compete with our customers , " said Lisa Su , who recently joined AMD to serve as senior vice president and general manager for global business units .
+On the other hand , AMD plans to keep supporting SeaMicro's existing customers by selling servers "for the foreseeable future , " Ms . Su said .
+Those systems now use Intel chips .
+But AMD plans to also offer systems that use AMD's Opteron chips for servers in the second half of the year , the company said .
+Mr . Read had already indicated that AMD in the future might offer customers the choice of products that include ARM technology .
+SeaMicro , meanwhile , had indicated its technology was also designed to support ARM as well as the x86 chips sold by AMD and Intel .
+SeaMicro Chief Executive Andrew Feldman , who will become general manager of AMD's newly created data - center server solutions business , said the company had more than one interested bidder .
+But he said it was attracted by AMD management's open attitude toward issues such as supporting other chip designs , as well as a desire to propagate its technology faster than a start - up can .
+"We came to believe the way to grab this opportunity was the drive of a much larger company , " Mr . Feldman said .
+The start - up , also based in Sunnyvale , originally passed up Intel's mainstream offering for servers , a chip called Xeon that is a workhorse for companies around the around the world .
+SeaMicro took Intel's tiny , relatively low - powered Atom chip—best known for use in inexpensive laptop computers called netbooks and now in smartphones—and packaged it for use in data centers .
+SeaMicro last month held an event with Intel and Samsung Electronics Co . to detail plans to use Xeon chips in its new machines .
+That shift , the company said at the time , allows customers to use its machines for an array of new tasks that couldn't be addressed before , such as running Web databases rather than simply serving up Web pages .
+Mr . Feldman said Wednesday that AMD's Opteron chip would further expand the kinds of applications that would fit its technology .
+Jason Waxman , Intel's general manager for cloud computing , said it has enjoyed its relationship with SeaMicro and expects to keep supplying chips to the company as part of AMD , while working with other makers of micro servers .
+He noted that Intel has also been acquiring communications - related technology so AMD's motivations were understandable .
+"You need a broader technology portfolio to service the needs of customers in this market , " Mr . Waxman said .
+Evercore analyst Patrick Wang said the acquisition was surprising but likely indicates AMD's commitment to the data center and cloud computing .
+"This is the next step in that direction , " Mr . Wang said .
+"But it's a very unconventional step . "
+Mr . Wang said AMD likely is using the purchase to acquire server intellectual property , particularly for the high - performance technology , known as a fabric , that connects all the different processors and disk drives to each other .
+The approach allows data to pass more quickly and efficiently .
+"SuperMicro is very successful right now , " he said .
+AMD said $281 million of the purchase price for SeaMicro will be in cash .
+The company said the acquisition doesn't change its 2012 financial guidance and the transaction is expected to be add to earnings after 2012 .

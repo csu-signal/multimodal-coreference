@@ -1,0 +1,14 @@
+http : / / news . cnet . com / 8301 - 13924 _ 3 - 57387967 - 64 / amd - to - acquire - microserver - vendor - seamicro - a - user - of - intel - chips /
+AMD to acquire microserver vendor SeaMicro - - a user of Intel chips
+Advanced Micro Devices to acquire microserver vendor SeaMicro for $334 million .
+To date , SeaMicro has used chips from Intel .
+February 29 , 2012 3 : 24 PM PST
+Advanced Micro Devices will acquire server vendor SeaMicro in an attempt to make a run at Intel in the microserver market .
+AMD said it has signed a definitive agreement to acquire SeaMicro , a company that supplies energy - efficient microservers , for approximately $334 million .
+To date , SeaMicro servers have been using Intel's Atom and Xeon processors .
+Future plans call for SeaMicro to build servers with AMD's Opteron chips .
+"AMD plans to offer the first AMD Opteron processor - based solutions that combine AMD and SeaMicro technology in the second half of 2012 .
+The company remains firmly committed to its traditional server business , and will continue to focus and invest in this area , " AMD said in a statement .
+SeaMicro's innovations include its supercompute fabric , which connects thousands of processor cores , memory , storage , and input / output traffic .
+SeaMicro's fabric supports multiple processor instruction sets .
+"SeaMicro was founded to dramatically reduce the power consumed by servers , while increasing compute density and bandwidth , " said Andrew Feldman , SeaMicro CEO , who will become general manager of AMD's newly created Data Center Server Solutions business .

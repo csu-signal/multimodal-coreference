@@ -1,0 +1,45 @@
+http : / / venturebeat . com / 2012 / 02 / 29 / amd - buys - sea - micro - for - 334m - to - get - into - energy - efficient - microservers /
+AMD buys Sea Micro for $334M to get into energy - efficient “ microservers ”
+February 29 , 2012 2 : 27 PM
+There ’ s a sea change happening in a segment of the server market dubbed microservers .
+And Sea Micro has been at the center of it , disrupting the market with energy efficient servers that use lightweight processors from Intel .
+Advanced Micro Devices is acquiring Sea Micro today for $334 million , including $281 million in cash .
+Sea Micro has been disruptive because it can pack a lot of computing power in a server rack that is about a sixth of the usual size .
+Its servers use a quarter of the usual electricity and cost a lot less .
+The servers use Intel ’ s Atom microprocessors , which are targeted at energy efficient devices such as tablet computers .
+But AMD ’ s move could shake things up for Intel , which presumably will lose some of its business .
+The advantage of Sunnyvale , Calif . - based SeaMicro ’ s small and power - efficient computers is that enterprises can now shove a lot more computing power into a given amount of space and use a lot less electrical power , thereby cutting electricity bills dramatically .
+That matters because electricity costs are the biggest part of the budget for operating data centers .
+Andrew Feldman , chief executive of Sea Micro has said in past interviews that SeaMicro had become the fastest - growing system company in Silicon Valley history .
+SeaMicro ’ s customers include France Telecom , Skype , Rogers Wireless , Mozilla , eHarmony , and China Netcom BB .
+Hundreds of millions of internet users traverse SeaMicro ’ s hardware daily .
+As we ’ ve described in earlier stories , Intel has been improving its server microprocessors by making them more power efficient .
+But the microprocessor only accounts for a third of the power consumption in a server .
+SeaMicro ’ s innovation lies in how it attacks the remaining two - thirds of the power consumption problem .
+It does so by combining a lot of the extraneous chips into a single , more - efficient custom chip , Feldman said .
+In its earliest system , SeaMicro put 384 Intel Atom dual - core processors ( for a total of 64 - bit 768 cores ) in a 10 - rack system , which is just 17 . 5 inches high .
+The newer SM10000 - 64HD was a 20 percent improvement over SeaMicro ’ s previous server line and a 150 percent improvement on its compute density record , or the amount of computing power in a given space .
+That single machine could replace rival systems with a bunch of equipment : 60 traditional servers , four rack switches , four terminal servers , and a load balancing server .
+It uses a quarter of the power and a sixth of the space .
+SeaMicro can put an entire server on a motherboard that is 5 inches by 11 inches .
+Since the hardware is Intel - based , customers don ’ t have to change their software at all .
+SeaMicro was founded in 2007 and is backed with $60 million in funding by Khosla Ventures , Draper Fisher Jurvetson , Crosslink Capital , and a number of strategic investors .
+It also won grants from the U . S . Departement of Energy ( $9 . 3 million ) and the state of California ( $250 , 000 ) .
+SeaMicro has 80 employees .
+Most recently , it raised $20 million .
+SeaMicro also attacked the power consumption problem with a very clever trick known as virtualization .
+Today , virtualization is frequently used with servers .
+It is a layer of software that rests between an application and the servers that it runs on .
+If an application needs only two servers , the virtualization software finds two available servers to run the application .
+If the application gets busy and needs 10 servers , the virtualization software finds 10 available servers to do the job .
+The application is no longer tied to specific servers ; the virtualization software frees up the overall system and gets more use out of the available servers .
+SeaMicro did the same thing , but it applied the concept of virtualization to the inside of a server .
+Feldman designed custom chips that could take the tasks that were handled by everything beyond the Intel microprocessor and its chip set .
+The custom chips virtualize all of those other components so that it finds the resource when it ’ s needed .
+It essentially tricks the microprocessor into thinking that the rest of the system is there when it needs it .
+SeaMicro virtualized a lot of functions that took up a lot of space inside each server in a rack .
+It also did the same with functions such as storage , networking , server management , and load balancing .
+Full told , SeaMicro eliminates 90 percent of the components from a system board .
+SeaMicro calls this CPU / IO virtualization .
+With it , SeaMicro shrinks the size of the system board from a pizza box to the size of a credit card .
+By boiling down the rest of the system into a couple of chips , SeaMicro can get rid of a lot of the components in a system , thereby getting rid of space , cost , and power consumption .

@@ -1,0 +1,14 @@
+http : / / www . eweek . com / c / a / IT - Infrastructure / HP - Snaps - Up - Data - Center - Consulting - Firm /
+HP Snaps Up Data Center Consulting Firm
+Posted 2007 - 11 - 12
+The acquisition of EYP Mission Critical Facilities will help the OEM expand its services division .
+In a move that will expand its services division , Hewlett - Packard will acquire EYP Mission Critical Facilities , a New York company that offers data center consulting services .
+Financial details of the acquisition , announced Nov . 12 , were not disclosed .
+HP announced that the deal would close during its first financial quarter .
+EYP Mission , which has 350 employees and 13 offices in the United States and the United Kingdom , helps plan , design , build and support large - scale data centers .
+In a statement , HP executives said EYP Missions emphasis on designing energy - efficient facilities will complement its own data center technology , such as HP Dynamic Smart Cooling .
+At the HP Technology Forum & Expo in June , CEO Mark Hurd said the company needs to move away from its traditional roots as a hardware company that sells PCs and servers and toward a business that focuses on delivering software and services to customers .
+Part of the change is to offer more services for businesses that are looking to revamp or build new data centers , with an emphasis on offering better power efficiency by cutting down on power and cooling costs .
+In addition to HP , the other top - tier OEMs—IBM Sun Microsystems and Dell—have looked to expand their services divisions as a way to add to the bottom line , while offering customers a new set of choices to support data centers by lending their own level of expertise to the problems of maintaining these types of facilities .
+"The data center is the foundation of IT for enterprises , an essential building block for driving business growth and adapting to changing business objectives , " John McCain , senior vice president and general manager of HP Services , said in a statement .
+EYP Mission has experience in a number of fields that require data center services , including financial services , telecommunications , technology , broadcast , manufacturing and healthcare , as well as numerous federal , state and county government agencies .

@@ -1,0 +1,14 @@
+Microsoft releases emergency patch for Web browser
+Microsoft was to release an emergency patch yesterday to fix a perilous software flaw allowing hackers to hijack Internet Explorer ( IE ) browsers and take over computers .
+The US software giant said on Tuesday that in response to `` the threat to customers '' it immediately mobilized security engineering teams worldwide to deliver a software cure `` in the unprecedented time of eight days . ''
+Researchers at software security firm Trend Micro say attacks based on the vulnerability in the world 's most popular Web browser are `` spreading like wildfire '' with millions of computers already compromised .
+Microsoft typically releases patches for its software on the second on Tuesday of each month and rushing this fix to computer users out-of-cycle is testimony to the severe danger of the threat , according to Trend Micro .
+`` When the patch is released people should run , not walk , to get it installed , '' said Trend Micro advanced threat researcher Paul Ferguson .
+`` This vulnerability is being actively exploited by cyber-criminals and getting worse every day , '' he said .
+Trend Micro has identified about 10,000 Web sites that have been infected with malicious software that can be surreptitiously slipped into visitors ' unprotected IE browsers to take advantage of the flaw .
+`` What makes this so insidious it takes advantage of a big gaping hole of IE , which has the largest install base of any browser on the market , '' Ferguson said .
+IE is used on nearly three-quarters of the world 's computers , industry statistics from last month showed .
+Microsoft 's move came one day after Cisco issued a report saying armies of hijacked computers are flooding the world with spam as hackers devise slicker ways to take over unwitting people 's machines .
+Virus-infected computers are woven into `` botnets '' used to attack more machines and to send specious sales pitches to e-mail addresses in low-cost quests to bilk readers out of cash .
+`` Every year we see threats evolve as criminals discover new ways to exploit people , networks and the Internet , '' Cisco chief security researcher Patrick Peterson said .
+This year , botnets were used to inject an array of legitimate Web sites with an IFrames malicious code that reroutes visitors to Web sites that download computer viruses into their machines , Cisco said .

@@ -1,0 +1,15 @@
+http : / / www . forbes . com / sites / greatspeculations / 2012 / 03 / 27 / amd - completes - seamicro - acquisition - headed - to - 9 /
+3 / 27 / 2012 @ 10 : 05AM
+AMD Completes SeaMicro Acquisition Headed to $9
+AMD has completed its acquisition of SeaMicro as part of its strategy to regain lost server market share from Intel and better position itself against future competition from ARM - based players such as Nvidia .
+We previously wrote on how AMD can benefit from this acquisition ( see AMD Picks up SeaMicro to Strengthen Server Market Offering ) .
+Here we take a brief look at the price that AMD paid for SeaMicro , and what this implies about its growth expectations .
+AMD shelled out $334 million for the acquisition of SeaMicro .
+Since SeaMicro ’ s revenues or other financials were not disclosed , it becomes difficult to gauge whether the price paid was cheap or steep .
+However , based on certain assumptions , it is possible to understand the range of AMD ’ s growth expectations from SeaMicro .
+For the purpose of calculations , we assume that SeaMicro operates at EBITDA margin of close to 25% and apply similar corporate expenses ( as % of revenues ) including taxes , capital expenditures and others that we apply for AMD .
+If we assume SeaMicro ’ s revenues for 2012 will be somewhere around $50 million , it implies that AMD expects SeaMicro ’ s revenues to grow at an average annual rate of 43% to 44% over the course of our forecast period , which extends till 2018 .
+These revenues include both SeaMicro ’ s revenues as well as incremental benefit in server - related revenues from the acquisition .
+On the other hand , if we assume SeaMicro ’ s revenues for 2012 to be of the order of $150 million , it implies that AMD ’ s growth expectation for SeaMicro and related incremental server revenues stands at somewhere around 16% to 17% .
+According to AMD ’ s own calculations , it has paid a handsome price for the acquisition .
+Our price estimate for AMD stands at $9 . 21 , implying a premium of little under 15% to the market price .

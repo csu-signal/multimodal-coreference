@@ -1,0 +1,28 @@
+Microsoft Releases Critical Internet Explorer Patch
+The out-of-band security update fixes a JavaScript-related vulnerability that 's being actively exploited through hacked Web sites .
+Microsoft ( NSDQ : MSFT ) has released an out-of-band security update , MS08-078 , to fix a vulnerability in its Internet Explorer Web browser that 's being actively exploited .
+`` At this time , we are aware only of attacks that attempt to use this vulnerability against Windows Internet Explorer 7 , '' said Christopher Budd , Microsoft security response communications lead , in an e-mailed statement .
+`` Our investigation of these attacks so far has verified that they are not successful against customers who have applied the security update .
+MS08-078 has a maximum severity rating of Critical for all versions of Internet Explorer . ''
+On the heels of the Yahoo deal that fell apart V 2 , comeback CEO Jerry Yang was skewered by the able hands of Web 2.0 Summit host John Battelle .
+Paul Martino , CEO of Aggregate Knowledge , talks about the company 's `` online discovery '' tool , which essentially looks across hundreds of millions of Web sites and recommends content , products , and services to users in real time .
+Mashmaker allows developers to add a bit of JavaScript to any page and have that page automatically populated with appropriate widgets , making the page more useful for site visitors .
+Nonetheless , Microsoft lists Internet Explorer 5.01 , 6 , and 7 as affected software in its Security Bulletin .
+It also says separately , in the FAQ section , that Internet Explorer 8 Beta 2 is affected .
+The vulnerability can be exploited through JavaScript code posted on malicious Web sites .
+Internet Explorer users may be redirected to these sites through hacked legitimate sites .
+If the malicious code is successful , it silently downloads malware onto the victim 's computer .
+Microsoft typically releases software patches , referred to as Security Bulletins , on the second Tuesday of every month .
+When critical vulnerabilities emerge and are actively exploited , Microsoft often issues a patch as soon as it 's ready .
+The last such out-of-band patch , Microsoft Security Bulletin MS08-067 , was released on Oct. 23 .
+It addressed a vulnerability in Windows Server service that affected all currently supported versions of Windows .
+That vulnerability allowed an attacker to take over affected computers remotely .
+When Microsoft issued its out-of-band patch in October , it cited the vulnerability 's potential `` wormability '' -- meaning the hole could be exploited on a massive scale using self-copying malware -- as a reason for its action .
+But MS08-078 is n't wormable .
+`` That shows that the wormability of a vulnerability is no longer a good indicator of the seriousness of a threat and that these Web-based threats are now much more dangerous than network worms , '' said Roel Schouwenberg , senior antivirus researcher for Kaspersky Lab , Americas , in an e-mailed statement .
+Indeed , Microsoft security researchers estimated that as many as 1 in 500 users of Internet Explorer could have been exposed to malware attempting to exploit the flaw .
+`` The browser flaw had been disclosed roughly one week ago as a zero-day vulnerability , and active exploits have been around the Internet for that timeframe as well , '' Qualys CTO Wolfgang Kandek said in an e-mailed statement .
+`` The workarounds provided by Microsoft were very technical and quite cumbersome to implement , making it imperative for Microsoft to release a fix as quickly as possible . ''
+Kandek suggests that Microsoft is at a disadvantage in updating Internet Explorer because its browser does n't have a built-in update mechanism like other browser makers .
+Mozilla , for instance , just released Firefox 3.05 to Firefox users through its auto-update system .
+Microsoft is urging users of IE to test and deploy this update as soon as possible .

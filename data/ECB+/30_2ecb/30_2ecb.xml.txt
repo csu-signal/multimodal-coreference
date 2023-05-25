@@ -1,0 +1,23 @@
+Internet and telephone traffic between Europe and the Middle East and Asia was hampered Friday after three major underwater data lines were cut , according to France Telecom .
+The cut occurred on lines between 07:28 and 08:06 Coordinated Universal Time ( UTC ) on lines in the Mediterranean sea that connect Sicily to Tunisia and Egypt , the telecommunications company said .
+The cuts were to the Sea Me We 4 and Sea Me We 3 lines , which connect countries between Singapore and France as well as the Flag cable route , which stretches from the U.K. to Japan , a France Telecom spokeswoman who asked not to be named said .
+France Telecom is n't sure what caused the cut , she said .
+France Telecom is n't sure what caused the cut , she said .
+`` We have two assumptions .
+The first is that it could be an underwater earthquake , '' she said .
+`` Or it could be simply a ship in the area which has cut the cable . ''
+`` Or it could be simply a ship in the area which has cut the cable . ''
+A maintenance boat is en route to the site of the cut , but it will not get there until Monday , and it will take as many as two weeks for the situation to return to normal , she said .
+Many countries were affected by the outage , including India , Saudi Arabia , Egypt and Malaysia , which all lost a significant percentage on their voice traffic to Europe .
+For example , 82 percent of India 's voice traffic capability to Europe was out of service early Friday , although that situation has now improved , the spokeswoman said .
+Internet traffic also has been hit by the incident , according to Danny McPherson , chief security officer with Arbor Networks .
+His company 's sensors reported that between 3,000 and 5,000 Internet routes in the region were off-line early Friday morning .
+These routes are the Internet 's equivalent of dialing prefixes , meaning that computers that used them would be completely unreachable until service was restored .
+`` It 's significant that it was lost , '' he said
+`` For them it was in the middle of a business day on Friday . ''
+A large number of these came back on-line around 17:00 UTC , McPherson said .
+Most likely this happened after ISPs ( Internet service providers ) that had been knocked off-line had found alternate routes for their traffic .
+It 's hard to estimate how many Internet users were affected by the cut , but the Internet has a total of close to 300,000 such routes , he said .
+This is not the first time this year that these cables have been cut .
+Earlier this year both the Sea Me We 4 and Flag cables were cut .
+Flag 's cable was reportedly cut by ships anchored off the coast of Alexandria , Egypt .
