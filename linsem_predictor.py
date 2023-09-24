@@ -80,8 +80,7 @@ def find_lh_lh_oracle_overlap(dataset, dataset_folder):
 def get_ecb_generated_images(common_ids_test,lh_overlap=True):
     rand_arg = {}
     rand_paired = {}
-
-    main_path = '/s/chopin/d/proj/ramfis-aida/multimodal_NLI/Multimodal_CDCR/acl_submission_2023-main'
+    main_path = os. getcwd()
     ecb_paired_train = torch.load(main_path + '/ViT/paired_train')
     ecb_paired_dev = torch.load(main_path + '/ViT/paired_dev')
     ecb_paired_test = torch.load(main_path + '/ViT/paired_test')
@@ -336,18 +335,8 @@ def predict_with_linsem(mention_map, model_name, linear_weights_path, test_pairs
     #device_ids = list(range(1))
     device_ids = [1]
     linear_weights = torch.load(linear_weights_path,  map_location=torch.device('cpu'))
-#     scorer_module = CrossEncoder(is_training=False, model_name=model_name, long=long,
-#                                       linear_weights=linear_weights).to(device)
-
     scorer_module = Lin_Sem_Predictor(is_training=False, model_name=model_name, long=True,
                                       linear_weights=linear_weights,linear_map=True,zero_shot = True, heu = "lh", image_type = image_type, v_model = v_model, lin_sem_direction = lin_sem_direction).to(device)
-#     scorer_module = VLEncoder(is_training=False, model_name=model_name, long=long,
-#                                       linear_weights=linear_weights,linear_map=True,zero_shot = True).to(device)
-
-#     scorer_module = CrossEncoder_cossim(is_training=False, model_name=model_name, long=long,
-#                                       linear_weights=linear_weights).to(device)
-
-
     parallel_model = torch.nn.DataParallel(scorer_module, device_ids=device_ids)
     parallel_model.module.to(device)
 
@@ -356,19 +345,9 @@ def predict_with_linsem(mention_map, model_name, linear_weights_path, test_pairs
     _,common_ids_test,_,_  = find_lh_lh_oracle_overlap(dataset, dataset_folder)
     ecb_paired_train, ecb_paired_dev, ecb_paired_test, ecb_arg_train, ecb_arg_dev, ecb_arg_test = get_ecb_generated_images(common_ids_test,lh_overlap=True)
     print(len(ecb_paired_train), len(ecb_paired_dev), len(ecb_paired_test), len(ecb_arg_train),len(ecb_arg_dev), len(ecb_arg_test))
-
     test_ab, test_ba = vision_tokenize_new(tokenizer, test_pairs,ecb_arg_test,ecb_paired_test,mention_map, parallel_model.module.end_id, text_key=text_key, max_sentence_len=max_sentence_len)
-
-    #vision_tokenize_new(tokenizer, train_pairs,gvc_arg_train,gvc_paired_train, mention_map, parallel_model.module.end_id, text_key='bert_sentence', max_sentence_len=512)
-    #test_ab, test_ba  = tokenize(tokenizer, test_pairs, mention_map, parallel_model.module.end_id, text_key=text_key, max_sentence_len=max_sentence_len)
-    #test_ab, test_ba = vision_tokenize_new(tokenizer, test_pairs, rand_emb,rand_paired,mention_map, parallel_model.module.end_id, text_key=text_key, max_sentence_len=max_sentence_len)
-    #vision_tokenize_new(tokenizer, train_pairs,ecb_arg_train,ecb_paired_train, mention_map, parallel_model.module.end_id, text_key='bert_sentence', max_sentence_len=512)
-
     scores_ab, scores_ba = predict_with_tp_fp_model(parallel_model, test_ab, test_ba, device, batch_size=5)
-
     #Lm_embed = predict_dpos(parallel_model, test_ab, test_ba, device, batch_size=128)
-
-    #return Lm_embed, test_pairs
     return scores_ab, scores_ba, test_pairs
 
 def predict_with_tp_fp_model(parallel_model, dev_ab, dev_ba, device, batch_size):
@@ -405,55 +384,29 @@ def save_dpos_scores_with_linsem(dataset, split, dpos_folder, heu='lh', threshol
     #split ='train'
     mps, mps_trans = pickle.load(open(f'./datasets/{dataset}/{heu}/mp_mp_t_{split}.pkl', 'rb'))
     tps, fps, tns, fns = mps
-
     tps = tps
     fps = fps
-
     test_pairs = tps + fps
     test_labels = [1]*len(tps) + [0]*len(fps)
-
     #select the overlapping test pairs
-
     _,common_ids_test,_,_  = find_lh_lh_oracle_overlap(dataset, dataset_folder)
-
-
     test_pairs_dict = {pair:value for pair,value in zip(test_pairs, test_labels) if pair in common_ids_test.keys()}
     test_pairs = list(test_pairs_dict.keys())
     test_labels = list(test_pairs_dict.values())
     test_pairs = test_pairs[0:10] #unit testing with a small sample
     test_labels = test_labels[0:10]
-
-
-#     test_pairs = test_pairs[0:100]
-#     test_labels = test_labels[0:100]
-
     print("lh test pairs and labels",len(test_pairs ), len(test_labels))
-#     timed_pairs = test_pairs
-#     timed_labels = test_labels
-
-
     linear_weights_path = dpos_folder + "/linear.chkpt"
     bert_path = dpos_folder + '/bert'
-
-
     scores_ab, scores_ba, pairs = predict_with_linsem(evt_mention_map, bert_path, linear_weights_path, test_pairs, text_key, max_sentence_len, long=False, image_type = image_type, v_model=v_model, lin_sem_direction=lin_sem_direction)
 
     pickle.dump(test_pairs, open(dataset_folder + f'/dpos_{v_model}_zeroshot/{split}_{heu}_pairs.pkl', 'wb'))
     pickle.dump(scores_ab, open(dataset_folder + f'/dpos_{v_model}_zeroshot/{split}_{heu}_scores_ab_{lin_sem_direction}_{image_type}.pkl', 'wb'))
     pickle.dump(scores_ba, open(dataset_folder + f'/dpos_{v_model}_zeroshot/{split}_{heu}_scores_ba_{lin_sem_direction}_{image_type}.pkl', 'wb'))
-
-
     return scores_ab, scores_ba, pairs
 
 
 if __name__ == '__main__':
-#     dataset = 'ecb'
-#     split = 'test'
-#     heu = 'lh_oracle'
-#     main_path = '/s/chopin/d/proj/ramfis-aida/multimodal_NLI/Multimodal_CDCR/acl_submission_2023-main/datasets/gvc/vision_embed/'
-    dpos_path = '/s/chopin/d/proj/ramfis-aida/acl_cdcr/acl_submission_2023/ecb_long'
-#     scores_ab, scores_ba, pairs = save_dpos_scores(dataset, split, dpos_path, heu=heu, text_key='bert_doc', max_sentence_len=1024)
-
     dataset = 'ecb'
     split = 'train'
     heu = 'lh_oracle'
@@ -466,11 +419,3 @@ if __name__ == '__main__':
             for lm_direction in lin_sem_direction:
                 print(f"image type {im_type}, for model :{model} and for Linsem direction: {lm_direction}")
                 scores_ab, scores_ba, pairs = save_dpos_scores_with_linsem(dataset, split, dpos_path, heu='lh', threshold=0.999, text_key='bert_doc', max_sentence_len=1024, long=True, image_type = im_type, v_model=model, lin_sem_direction=lm_direction)
-
-
-
-# In[ ]:
-
-
-
-
