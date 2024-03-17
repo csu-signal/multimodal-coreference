@@ -1,6 +1,3 @@
-# Author: Rehan
-# Parse the LDC AIDA Annotations and LDC AIDA source files to generate a common representation of events, entities
-
 import os
 import argparse
 import pickle
