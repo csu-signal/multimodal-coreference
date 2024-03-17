@@ -1,0 +1,49 @@
+accelerate==0.22.0
+aiohttp==3.8.4
+en-core-web-lg @ https://github.com/explosion/spacy-models/releases/download/en_core_web_lg-3.5.0/en_core_web_lg-3.5.0-py3-none-any.whl
+en-core-web-md @ https://github.com/explosion/spacy-models/releases/download/en_core_web_md-3.5.0/en_core_web_md-3.5.0-py3-none-any.whl#sha256=b492fd2dfeee931dd60232fd1a122bb5c3542ebcd5d614f11844647050aa539e
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.5.0/en_core_web_sm-3.5.0-py3-none-any.whl
+es-core-news-md @ https://github.com/explosion/spacy-models/releases/download/es_core_news_md-3.5.0/es_core_news_md-3.5.0-py3-none-any.whl#sha256=b65a00a896debcfcaec84245bc94a21b397c6b151e70d098d84b4d44d38ac14c
+et-xmlfile==1.1.0
+evaluate==0.4.0
+huggingface-hub==0.16.4
+inflection==0.5.1
+matplotlib==3.7.2
+matplotlib-inline==0.1.6
+numpy==1.23.5
+openai==0.27.7
+openapi-schema-pydantic==1.2.4
+pandas==2.0.0
+prompt-toolkit==3.0.38
+protobuf==4
+pytorch-lightning==2.0.7
+safetensors==0.3.1
+scikit-image==0.21.0
+scikit-learn==1.2.2
+scipy==1.10.1
+seaborn==0.13.0
+Send2Trash==1.8.0
+sentencepiece==0.1.98
+sentry-sdk==1.31.0
+setproctitle==1.3.2
+six==1.16.0
+sklearn==0.0.post4
+smart-open==6.3.0
+smmap==5.0.1
+sniffio==1.3.0
+soupsieve==2.4.1
+spacy==3.5.2
+spacy-legacy==3.0.12
+spacy-loggers==1.0.4
+tiktoken==0.4.0
+tinycss2==1.2.1
+tokenize-rt==5.2.0
+tokenizers==0.13.3
+tomli==2.0.1
+torch==2.0.1+cu118
+torchaudio==2.0.1
+torchmetrics==1.1.1
+torchvision==0.15.2+cu118
+tornado==6.3
+tqdm==4.65.0
+transformers==4.32.0
